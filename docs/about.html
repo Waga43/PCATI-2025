@@ -237,11 +237,23 @@ cookieconsent.run({
   </li>  
     </ul>
   </li>
-  <li class="nav-item compact">
-    <a class="nav-link" href="./index.xml" target="_blank"> <i class="bi bi-rss" role="img">
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-rss-feeds" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">RSS Feeds</span>
+    </a>
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-rss-feeds">    
+        <li>
+    <a class="dropdown-item" href="./workshop.xml" target="_blank"><i class="bi bi-rss" role="img">
 </i> 
-<span class="menu-text"></span></a>
+ <span class="dropdown-text">Workshops RSS</span></a>
   </li>  
+        <li>
+    <a class="dropdown-item" href="./lecture.xml" target="_blank"><i class="bi bi-rss" role="img">
+</i> 
+ <span class="dropdown-text">Lectures RSS</span></a>
+  </li>  
+    </ul>
+  </li>
 </ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">

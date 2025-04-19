@@ -13,9 +13,6 @@
   },
   {
     "listing": "/lecture.html",
-    "items": [
-      "/lecture/post-with-code/index.html",
-      "/lecture/welcome/index.html"
-    ]
+    "items": []
   }
 ]

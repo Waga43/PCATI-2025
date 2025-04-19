@@ -190,9 +190,17 @@ website:
             href: https://www.buk.edu.ng/node/82
             target: _blank
 
-      - icon: rss
-        href: index.xml
-        target: _blank
+      - text: RSS Feeds
+        menu:
+          - text: Workshops RSS
+            icon: rss
+            href: workshop.xml
+            target: _blank
+
+          - text: Lectures RSS
+            icon: rss
+            href: lecture.xml
+            target: _blank
 
       # - icon: twitter
       #   href: https://x.com/@edutech_tm
