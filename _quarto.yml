@@ -130,7 +130,7 @@ website:
       - href: index.qmd
         text: 🏠 Home
       
-      - text: Get Started
+      - text: "▶️ Get Started"
         menu:
           - text: "ℹ️ About PCATI 2025"
             href: about.qmd
