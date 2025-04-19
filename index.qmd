@@ -52,10 +52,33 @@ Welcome to the Physiology Career Awareness and Training Initiative (PCATI) 2025 
 
 **This workshop is also supported by:**
 
-::: {layout-ncol=3}
+<!-- ::: {layout-ncol=3}
 [![Bayero University Kano](assets\buk3.png)](https://buk.edu.ng)
 
 [![Federal University Dutse](assets\fud3.png)](https://fud.edu.ng)
+
+[![Center for Biotechnology Research, Bayero University Kano](assets\cbr2.png)](https://www.linkedin.com/company/center-for-biotechnology-research-bayero-university-kano)
+
+::: -->
+
+::: panel-tabset
+## [Bayero University Kano](https://buk.edu.ng)
+
+[![Bayero University Kano](assets\buk3.png)](https://buk.edu.ng)
+
+:::
+
+---
+
+::: panel-tabset
+## [Federal University Dutse](https://fud.edu.ng)
+
+[![Federal University Dutse](assets\fud3.png)](https://fud.edu.ng)
+
+:::
+
+::: panel-tabset
+## [Center for Biotechnology Research, Bayero University Kano](https://www.linkedin.com/company/center-for-biotechnology-research-bayero-university-kano)
 
 [![Center for Biotechnology Research, Bayero University Kano](assets\cbr2.png)](https://www.linkedin.com/company/center-for-biotechnology-research-bayero-university-kano)
 
