@@ -1,0 +1,14 @@
+---
+title: "License"
+Description: License Guiding Usage and Distribution of the contents on the PCATI 2025 Workshop
+---
+
+## Welcome to the PCATI 2025 Workshop Website
+
+::: callout-important
+## Attribution
+
+Kindly ensure you give attribution when ever you use any of the works on this website.
+
+You are allowed to publicly reuse and distribute any of the works  provided you give the right attribution.
+:::

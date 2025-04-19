@@ -1,0 +1,300 @@
+project:
+  type: website
+  output-dir: docs
+jupyter: python3
+# engine: knitr
+
+# Website Options
+website:
+  title: "PCATI 2025 Workshop"
+  description: "Physiology Career Awareness and Training Initiative 2025 Workshop Website"
+  image: assets\pcat-logo-white.png
+  site-url: "https://waga43.github.io/pcati-2025/"
+  google-analytics: "G-58YFBY5HDN"
+  page-navigation: true
+  back-to-top-navigation: true
+  favicon: assets\pcati-white-favicon_io\favicon.ico
+  cookie-consent: true
+  body-footer: |
+            <center><p>&copy; 2025, PCATI 2025. Some rights reserved. <br>This website is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by/4.0/deed.en">Creative Commons Attribution 4.0 International License</a></p></center>
+
+  announcement:
+    content: "**🗣 Welcome to PCATI 2025 Workshop Website: Proudly Sponsored by [<mark>The Physiological Society &copy;</mark>](https://physoc.org)**"
+    position: above-navbar
+    type: success
+
+  open-graph: true
+  twitter-card:
+    site: "@EduTechTainMent"
+    creator: "@EduTechTainMent"
+
+  page-footer:
+    border: true
+    background: rgb(0, 48, 73)
+
+    center:
+      # - This website is built by &copy; EduTechTainMent with ❤️.
+
+      - text: "About"
+        href: about.qmd
+
+      - text: "License"
+        href: license.qmd
+
+      - text: "Trademark"
+        href: trademark.qmd
+
+    left:
+      # - text: ETTM Forum
+      #   href: https://edutechtainment.net
+      #   target: _blank
+      - This website is built with ❤️ by &copy;  EduTechTainMent | 2025
+
+      # - Send a {{< fa envelope title="An envelope" >}}
+
+    right:
+      - text: EduTechTainMent
+        href: https://edutechtainment.net
+        target: _blank
+
+  # sidebar:
+  #   location: right
+  #   style: "floating"
+  #   # search: true
+  #   header: "**Welcome to my Weblog**"
+  #   footer: "[EduTechTainMent](https://edutechtainment.net)"
+
+  #   menu:
+  #     - text: GitHub
+  #       href: https://github.com/waga43
+  #       target: _blank
+
+  #     - text: ETTM LMS
+  #       href: https://lms.edutechtainment.net
+  #       target: _blank
+
+  #   tools:
+  #     - icon: github
+  #       text: GitHub
+  #       href: https://github.com/waga43/
+  #       target: _blank
+
+  #     - icon: linkedin
+  #       text: LinkedIn
+  #       href: https://linkedi.com/in/abdulwasiu
+  #       target: _blank
+
+  #     - icon: envelope
+  #       text: Mail
+  #       href: mailto:edutech.tm@gmail.com
+  #       target: _blank
+
+  #     - icon: youtube
+  #       text: YouTube
+  #       href: https://www.youtube.com/channel/UCAe5662cWJF5NW851ylT-qw
+  #       target: _blank
+
+  #   contents:
+  #     - text: "🏠 Home"
+  #       file: index.qmd
+
+  #     - section: "✍🏾 Blogs"
+  #       contents:
+  #       - text: "📊 DA & DS"
+  #         href: dablogposts.qmd
+  #       - text: "📈 ML & AI"
+  #         href: mlblogposts.qmd
+
+  #       # - text: "Placeholder Text"
+  #       #   href: about.qmd
+  #       # - text: "Placeholder Text"
+  #       #   href: about.qmd
+  #       # - text: "Placeholder Text"
+  #       # - text: "Social"
+  #       #   href: "about.qmd"
+
+  #     - section: "📚 Manuscripts"
+  #       contents:
+  #       - text: "🏫 Public Works"
+  #         href: publicworksblogposts.qmd
+  #       - text: "🎓 Academic Works"
+  #         href: academicbloposts.qmd
+
+  #     - section: "✨ Extra"
+  #       contents:
+  #       - about.qmd
+
+  navbar:
+    left:
+      # - logo: assets\001_White_ETTM_Logo-Rectangle.jpg
+      - href: index.qmd
+        text: 🏠 Home
+      
+      - text: Get Started
+        menu:
+          - text: "ℹ️ About PCATI 2025"
+            href: about.qmd
+
+          - text: "📖 Application"
+            href: application.qmd
+
+      - text: "🎓 Organizers"
+        # icon: fa-graduation-cap # pencil
+        menu:
+          - text: "👨🏽‍🎓 Dr. Basheer Isah Waziri"
+            href: basheer.qmd
+
+          - text: "👩🏽‍🎓 Prof. Nafisa Yusuf Wali"
+            href: nafisa.qmd
+
+          - text: " 🧑🏾‍🎓 Dr. Hafsat Abubakar Kari"
+            href: hafsat.qmd
+
+          - text: "👨🏽‍🎓 Dr. Abdulwasiu B. Popoola"
+            href: abdulwasiu.qmd
+
+      - text:  ✍🏾 PCATI Blog
+        menu:
+          - text: "📊 Lectures & Seminars"
+            href: lecture.qmd
+
+          - text: "📈 Workshops & Trainings"
+            href: workshop.qmd
+
+      - text: "📚 Manuscripts"
+        menu:
+          - text: "🏫 Public Works"
+            href: publicworksblogposts.qmd
+          - text: "🎓 Academic Works"
+            href: academicblogposts.qmd
+
+    right:
+      - text: 🌐 Important Sites
+        menu:
+          - text: "🌍 The Physiological Society"
+            href: https://www.physoc.org
+            target: _blank
+
+
+          - text: 🌍 Bayero University Kano
+            href: https://edutechtainment.net
+            target: _blank
+
+          - text: "🌍 Federal University Dutse"
+            href: https://fud.edu.ng
+            target: _blank
+            # icon: cloudversify
+
+          # - text: 👨🏽‍🎓 ETTM LMS
+          #   # icon: graduation-cap
+          #   href: https://lms.edutechtainment.net
+          #   target: _blank
+      - icon: rss
+        href: index.xml
+        target: _blank
+
+      # - icon: twitter
+      #   href: https://x.com/@edutech_tm
+      #   target: _blank
+
+      # - icon: github
+      #   href: https://github.com/waga43
+      #   target: _blank
+format:
+  html:
+    theme:
+      light: cosmo #zephyr
+      dark: cyborg #darkly
+    css: styles.css
+    toc: true
+    toc-title: Table of Contents
+    toc-location: right
+    toc-depth: 5
+    code-fold: show
+    code-block-bg: true
+    code-block-border-left: 'blue'
+    code-summary: "Show the code"
+    email-obfuscation: references
+    code-overflow: wrap
+    # code-links: true
+
+    # other-links:
+    #   - text: 📹 ETTM YouTube
+    #     # icon: align-justify
+    #     href: https://www.youtube.com/channel/UCAe5662cWJF5NW851ylT-qw
+    #     target: _blank
+
+    #   - text: 👨‍👩‍👦‍👦 ETTM Forum
+    #     href: https://edutechtainment.net
+    #     target: _blank
+    #     # icon: cloudversify
+
+    #   - text: 👨🏽‍🎓 ETTM LMS
+    #     # icon: graduation-cap
+    #     href: https://lms.edutechtainment.net
+    #     target: _blank
+
+
+    # code-links: # Setup for readers to download config file
+    #   - text: " Download My YAML"
+    #     icon: file-code
+    #     href: data\environment.yml
+    #     target: _blank
+
+    link-external-icon: true
+    link-external-newwindow: true
+
+# # Include bibiography File
+# bibliography: references.bib
+
+# # Include citations
+# citation: true
+
+# # Enable CC licence appendix
+# license: "CC BY"
+
+
+
+    # comments:
+    #   hypothesis:
+    #     theme: classic
+    #     showHighlights:  true
+    #   utterances:
+    #     repo:  Waga43/ETTM-Quarto-Weblog
+
+  # Other Possible website Output Formats
+  # revealjs: 
+  #   output-file: document-revealjs.html
+  # pdf: default
+  # docx:
+  #   toc: true
+  #   number-sections: true
+  #   highlight-style: github
+  # typst: default
+  # word: default
+
+# format-links: 
+#   - pdf
+#   - text: Other Link
+#     href: https://quarto.org/
+#     icon: hand-thumbs-up #bar-chart-steps
+
+# How Images should be Handled
+lightbox:
+  match: auto
+  effect: zoom
+  desc-position: bottom
+  loop: true
+
+# Resources used site-wide
+resources:
+  - "data/*.csv"
+
+
+# page-footer:
+#     background: light
+#     left: This Weblog by EduTechTainMent is licensed under a [Creative Commons Attributions 4.0 International License](https://creativecommons.org/licenses/by/4.0/)
+#     right: This website is built with {{< fa heart title="a heart" >}} and [Quarto](https://quarto.org/)
+
+
+

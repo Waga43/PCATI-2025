@@ -1,0 +1,66 @@
+---
+title: "Physiology Career Awareness and Training Initiative (PCATI) 2025"
+# image: assets\pcat-logo-white.png
+toc: false
+page-layout: full
+about: 
+  template: jolla # jolla trestles solana marquee broadside
+  image-shape: round
+  image-alt: PCATI 2025
+  image-title: PCATI 2025 Profile Image
+  image-width: 17em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/abdulwasiu/
+      icon: linkedin
+      target: _blank
+
+    - text: GitHub
+      href: https://github.com/waga43
+      icon: github
+      target: _blank
+
+    - text: Email
+      href: mailto:edutech_tm@gmail.com
+      icon: envelope
+      target: _blank
+
+    - text: YouTube
+      href: https://www.youtube.com/channel/UCAe5662cWJF5NW851ylT-qw
+      icon: youtube
+      target: _blank
+---
+
+
+Welcome to the Physiology Career Awareness and Training Initiative (PCATI) 2025 Website. It's a pleasure having you here.
+
+**This workshop is proudly sponsored by:**
+---
+
+![PCATI 2025 | Powered by the Physiological Society](assets\the-physiological-society-logo.png)
+
+
+<!-- {{< html "https://www.physoc.org/" height="500px" width="500px" >}} -->
+
+---
+---
+
+```{=html}
+<iframe width="700" height="500" src="https://physoc.org/" title="Physoc Website"></iframe>
+```
+---
+
+**This workshop is also supported by:**
+
+::: {layout-ncol=3}
+[![Bayero University Kano](assets\buk3.png)](https://buk.edu.ng)
+
+
+[![Federal University Dutse](assets\fud-white.png)](https://fud.edu.ng)
+
+
+[![Center for Biotechnology Research, Bayero University Kano](assets\cbr2.png)](https://www.linkedin.com/company/center-for-biotechnology-research-bayero-university-kano)
+
+:::
+
+<script async data-uid="d50aa5484f" src="https://edutechtainment.kit.com/d50aa5484f/index.js"></script>

@@ -1,0 +1,44 @@
+---
+title: "PCATI 2025 Application"
+image: assets\application-letter.png
+toc: false
+page-layout: full
+about: 
+  template: jolla # jolla trestles solana marquee broadside
+  image-shape: round
+  image-alt: PCATI 2025 Application
+  image-title: PCATI 2025 Application
+  image-width: 17em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/abdulwasiu/
+      icon: linkedin
+      target: _blank
+
+    - text: GitHub
+      href: https://github.com/waga43
+      icon: github
+      target: _blank
+
+    - text: Email
+      href: mailto:edutech_tm@gmail.com
+      icon: envelope
+      target: _blank
+
+    - text: YouTube
+      href: https://www.youtube.com/channel/UCAe5662cWJF5NW851ylT-qw
+      icon: youtube
+      target: _blank
+---
+
+
+Welcome to the Physiology Career Awareness and Training Initiative (PCATI) 2025 Application page. It's a pleasure having you here.
+
+**This workshop is proudly sponsored by:**
+---
+
+![](assets\the-physiological-society-logo.png)
+
+Fill out the below form to get started with your application. Do not forget to click on the submission button once you are done filling your application.
+
+![Don't forget to submit your application](assets\submit-application.png)

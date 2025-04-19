@@ -1,0 +1,41 @@
+---
+title: "Dr. Abdulwasiu Bamidele Popoola"
+image: assets\myprofile.jpg
+toc: false
+page-layout: full
+about: 
+  template: jolla # jolla trestles solana marquee broadside
+  image-shape: round
+  image-alt: A. B. Popoola
+  image-title: A. B. Popoola Profile Image
+  image-width: 17em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/abdulwasiu/
+      icon: linkedin
+      target: _blank
+
+    - text: GitHub
+      href: https://github.com/waga43
+      icon: github
+      target: _blank
+
+    - text: Email
+      href: mailto:edutech_tm@gmail.com
+      icon: envelope
+      target: _blank
+
+    - text: YouTube
+      href: https://www.youtube.com/channel/UCAe5662cWJF5NW851ylT-qw
+      icon: youtube
+      target: _blank
+---
+
+
+Welcome to the Physiology Career Awareness and Training Initiative (PCATI) 2025 Website. It's a pleasure having you here.
+
+**This workshop is proudly sponsored by:**
+---
+
+![](assets\the-physiological-society-logo.png)
+

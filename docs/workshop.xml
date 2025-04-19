@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>PCATI 2025 Workshop</title>
+<link>https://waga43.github.io/pcati-2025/workshop.html</link>
+<atom:link href="https://waga43.github.io/pcati-2025/workshop.xml" rel="self" type="application/rss+xml"/>
+<description>Physiology Career Awareness and Training Initiative 2025 Workshop Website</description>
+<image>
+<url>https://waga43.github.io/pcati-2025/assets/pcat-logo-white.png</url>
+<title>PCATI 2025 Workshop</title>
+<link>https://waga43.github.io/pcati-2025/workshop.html</link>
+<height>42</height>
+<width>144</width>
+</image>
+<generator>quarto-1.6.42</generator>
+<lastBuildDate>Sat, 19 Apr 2025 07:00:31 GMT</lastBuildDate>
+</channel>
+</rss>
