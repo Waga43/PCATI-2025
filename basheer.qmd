@@ -4,7 +4,7 @@ image: assets\basheer-profile-image.png
 toc: false
 page-layout: full
 about: 
-  template: jolla # jolla trestles solana marquee broadside
+  template: trestles # jolla trestles solana marquee broadside
   image-shape: round
   image-alt: Dr. Basheer Isah Waziri
   image-title: Dr. Basheer Isah Waziri Profile Image
@@ -70,7 +70,7 @@ Dr. Basheer Isah Waziri obtained his 1st degree in Medicine & Surgery (MBBS) - 2
 
 - Member Editorial Board, Pyramid Journal of Medicine (2022 - date)
 
-h. Member Publicity and Publication Committee, Nigerian Medical Association Kano 2021 - 2023
+- Member Publicity and Publication Committee, Nigerian Medical Association Kano 2021 - 2023
 
 ### Engagement & Membership with Professional organizations
 
