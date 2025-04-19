@@ -1,6 +1,6 @@
 ---
 title: "Prof. Nafisa Yusuf Wali"
-# image: assets\pcat-logo-white.png
+# image: {{< plaeholder >}}
 toc: false
 page-layout: full
 about: 

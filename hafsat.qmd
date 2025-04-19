@@ -4,7 +4,7 @@ image: assets\hafsat-profile-image.png
 toc: false
 page-layout: full
 about: 
-  template: jolla # jolla trestles solana marquee broadside
+  template: trestles # jolla trestles solana marquee broadside
   image-shape: round
   image-alt: Dr. Hafsat
   image-title: Dr. Hafsat Profile Image
