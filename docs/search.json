@@ -28,6 +28,13 @@
     "text": "Attribution\n\n\n\nKindly ensure you give attribution when ever you use any of the works on this website.\nYou are allowed to publicly reuse and distribute any of the works provided you give the right attribution."
   },
   {
+    "objectID": "lecture/welcome/index.html",
+    "href": "lecture/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "Welcome to EduTechTainMent Data Science Blog.\nOver Every Possessor of Knowledge, There (is) (Some) One Else More Knowledgeable!!!\n\n\n\n\nwelcome.py\n\n#| echo: true\n#| code-fold: show\n\nprint(f\"{'Get Started':=^80}\")\n\nThis is the first post in a Quarto blog. Welcome!\nModern public health demands that decisions should be science-based and knowledge-based. As far as possible, policy-making should be made only after objective analysis of relevant information. Where information is lacking, there is a clear indication for gathering data and carrying out research to inform decision-making. It is often stated that researchers should present their results in a way that decision-makers can apply their findings. By the same token, policy-makers have the responsibility to ensure that their decisions are based on the best available scientific evidence.\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts.\n\n\n\n\n\n\n⛔/ Caution\n\n\n\nTake note of the following points:\n\nWrite your name\nWrite your registration number\nAttempt all questions\n\n\n\n\nMyFirstTable\n\n\nS/no\nName\nSex\n\n\n\n\n1\nWaga\nF\n\n\n2\nSigi\nM\n\n\n3\nUngu\nM\n\n\n\n\n\n\n\n\n\nNote\n\nA definition of terms\n\n\n\n\nWelcome to Python Coding!!!\nThank you.\nWe are highly\nelated to see you\ndear friend.\nHave a swell time.\n\n\n\n\n\n\n\n\n\n© 2025, PCATI 2025. Some rights reserved. This website is licensed under a Creative Commons Attribution 4.0 International License\n\n Back to top"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Physiology Career Awareness and Training Initiative (PCATI) 2025",
@@ -133,11 +140,39 @@
     "text": "Welcome to the Physiology Career Awareness and Training Initiative (PCATI) 2025 Website. It’s a pleasure having you here.\nThis workshop is proudly sponsored by:\n\n\n\nHafsat Abubakar Kari is a PhD student at University of Bradford, England, United Kingdom. She is currently researching on Circadian Rythms of naked Mole rats - an extraordinary long-lived mammalian model for studying aging and cancer.\nHer main scientific interests are in neuroendocrinology and reproductive biology. She is an alumnus of Bayero University Kano.\n\n\n\n\n© 2025, PCATI 2025. Some rights reserved. This website is licensed under a Creative Commons Attribution 4.0 International License\n\n Back to top"
   },
   {
+    "objectID": "lecture/post-with-code/index.html",
+    "href": "lecture/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\nShow the code\ndef greeting(name = \"Waga\"):\n    print(f\"Good day {name}.\")\n\ngreeting()\n\n\nGood day Waga."
+  },
+  {
+    "objectID": "lecture/post-with-code/index.html#welcome",
+    "href": "lecture/post-with-code/index.html#welcome",
+    "title": "Post With Code",
+    "section": "Welcome 🙌",
+    "text": "Welcome 🙌\nIf you do not already have a gh-pages branch, you can create one as follows. First, make sure you have committed all changes to your current working branch with git status. Then:\ngit checkout --orphan gh-pages git reset --hard # make sure all changes are committed before running this! git commit --allow-empty -m \"Initialising gh-pages branch\" git push origin gh-pages"
+  },
+  {
+    "objectID": "lecture/post-with-code/index.html#goodbye",
+    "href": "lecture/post-with-code/index.html#goodbye",
+    "title": "Post With Code",
+    "section": "Goodbye 🙌",
+    "text": "Goodbye 🙌"
+  },
+  {
+    "objectID": "lecture/post-with-code/index.html#see-you",
+    "href": "lecture/post-with-code/index.html#see-you",
+    "title": "Post With Code",
+    "section": "See you 🤸‍♂️",
+    "text": "See you 🤸‍♂️\nPlease make sure the file exists and is executable.\nDid you intend ‘assign’ as a Lua filter in an extension? If so, make sure you’ve spelled the name of the extension correctly.\nThe original Pandoc error follows below. Error running filter\n\n\n\n\n\n\n✅ Attention\n\n\n\nTake note of the following points:\n\nWrite your name\nWrite your registration number\nAttempt all questions\n\n\n\nPlease make sure the file exists and is executable.\nDid you intend ‘assign’ as a Lua filter in an extension? If so, make sure you’ve spelled the name of the extension correctly.\nThe original Pandoc error follows below. Error running filter\nDouble-check that the last git push action has indeed set the Settings : Pages for your repository as expected in the previous figure. Get back to your original repository branch with, for example, git checkout main.\n\nIgnoring Output\nIt’s important to note that you don’t need to check your _site or _book directory into version control (if you have done this in the past you know it makes for very messy diffs!). Before proceeding you should add the output directory of your project to .gitignore. For example:\n.gitignore\n/.quarto/ /_site/\nIf you’ve already checked these files into source control you may need to remove them explicitly:\nTerminal\ngit rm -r _site\n\n\n\n\n\n\nError\n\n\n\nThere are various types of error in python code execution:\n\nFirst error Google\nSecond error\n\nNew\nOld\n\nThird"
+  },
+  {
     "objectID": "lecture.html",
     "href": "lecture.html",
     "title": "Lectures & Seminars",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n         \n          Modified - Oldest\n        \n         \n          Modified - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nNo matching items\n\n\n\n© 2025, PCATI 2025. Some rights reserved. This website is licensed under a Creative Commons Attribution 4.0 International License\n\n Back to top"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n         \n          Modified - Oldest\n        \n         \n          Modified - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nMar 10, 2025\n\n\nAbdulwasiu B. Popoola\n\n\n3 min\n\n\nMar 11, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMar 7, 2025\n\n\nAishat F. Popoola\n\n\n2 min\n\n\nMar 11, 2025\n\n\n\n\n\n\nNo matching items\n\n\n\n© 2025, PCATI 2025. Some rights reserved. This website is licensed under a Creative Commons Attribution 4.0 International License\n\n Back to top"
   },
   {
     "objectID": "nafisa.html",
