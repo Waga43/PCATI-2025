@@ -190,7 +190,8 @@ website:
             href: https://www.buk.edu.ng/node/82
             target: _blank
 
-      - text: RSS Feeds
+      - text: "🌈 RSS Feeds"
+        # icon: assets\rss.png
         menu:
           - text: Workshops RSS
             icon: rss
