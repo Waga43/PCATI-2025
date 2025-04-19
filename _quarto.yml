@@ -155,10 +155,10 @@ website:
 
       - text:  ✍🏾 PCATI Blog
         menu:
-          - text: "📊 Lectures & Seminars"
+          - text: "📔 Lectures & Seminars"
             href: lecture.qmd
 
-          - text: "📈 Workshops & Trainings"
+          - text: "⚙️ Workshops & Trainings"
             href: workshop.qmd
 
       - text: "📚 Manuscripts"
@@ -177,7 +177,7 @@ website:
 
 
           - text: 🌍 Bayero University Kano
-            href: https://edutechtainment.net
+            href: https://buk.edu.ng
             target: _blank
 
           - text: "🌍 Federal University Dutse"
@@ -185,10 +185,11 @@ website:
             target: _blank
             # icon: cloudversify
 
-          # - text: 👨🏽‍🎓 ETTM LMS
-          #   # icon: graduation-cap
-          #   href: https://lms.edutechtainment.net
-          #   target: _blank
+          - text: "🌍 CBR, BUK"
+            # icon: graduation-cap
+            href: https://www.buk.edu.ng/node/82
+            target: _blank
+
       - icon: rss
         href: index.xml
         target: _blank
