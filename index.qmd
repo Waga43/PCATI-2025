@@ -46,7 +46,7 @@ Welcome to the Physiology Career Awareness and Training Initiative (PCATI) 2025 
 ---
 
 ```{=html}
-<iframe width="700" height="500" src="https://physoc.org/" title="Physoc Website"></iframe>
+<iframe width="500" height="500" src="https://physoc.org/" title="Physoc Website"></iframe>
 ```
 ---
 
@@ -55,9 +55,7 @@ Welcome to the Physiology Career Awareness and Training Initiative (PCATI) 2025 
 ::: {layout-ncol=3}
 [![Bayero University Kano](assets\buk3.png)](https://buk.edu.ng)
 
-
-[![Federal University Dutse](assets\fud-white.png)](https://fud.edu.ng)
-
+[![Federal University Dutse](assets\fud3.png)](https://fud.edu.ng)
 
 [![Center for Biotechnology Research, Bayero University Kano](assets\cbr2.png)](https://www.linkedin.com/company/center-for-biotechnology-research-bayero-university-kano)
 
