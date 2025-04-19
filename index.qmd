@@ -46,7 +46,7 @@ Welcome to the Physiology Career Awareness and Training Initiative (PCATI) 2025 
 ---
 
 ```{=html}
-<iframe width="350" height="500" src="https://physoc.org/" title="Physoc Website"></iframe>
+<iframe width="350" height="400" src="https://physoc.org/" title="Physoc Website"></iframe>
 ```
 ---
 
