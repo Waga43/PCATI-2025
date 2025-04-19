@@ -10,6 +10,8 @@ Welcome to the Physiology Career Awareness and Training Initiative (PCATI) 2025.
 
 ![](assets\pcat-logo-white.png)
 
+---
+
 ## Project Brief
 
 The "Physiology Career Awareness and Training Initiative" is a transformative program designed to address critical gaps in physiology education, research, and career development in 

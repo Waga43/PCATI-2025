@@ -4,7 +4,7 @@ image: assets\hafsat-profile-image.png
 toc: false
 page-layout: full
 about: 
-  template: trestles # jolla trestles solana marquee broadside
+  template: jolla # jolla trestles solana marquee broadside
   image-shape: round
   image-alt: Dr. Hafsat
   image-title: Dr. Hafsat Profile Image
@@ -41,6 +41,6 @@ Welcome to the Physiology Career Awareness and Training Initiative (PCATI) 2025 
 
 ---
 
-Hafsat Abibakar Kari is a PhD student at University of Bradford, England, United Kingdom. She is currently researching on Circadian Rythms of naked Mole rats - an extraordinary long-lived mammalian model for studying aging and cancer. 
+Hafsat Abubakar Kari is a PhD student at University of Bradford, England, United Kingdom. She is currently researching on Circadian Rythms of naked Mole rats - an extraordinary long-lived mammalian model for studying aging and cancer. 
 
 Her main scientific interests are in neuroendocrinology and reproductive biology. She is an alumnus of Bayero University Kano.
