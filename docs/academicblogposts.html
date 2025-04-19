@@ -83,9 +83,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: [{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: [],
+      searchColumns: ["listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -162,14 +162,14 @@ window.Quarto = {
 
 <link rel="stylesheet" href="styles.css">
 <link rel="alternate" type="application/rss+xml" title="PCATI 2025 Workshop" href="academicblogposts.xml" data-external="1"><meta property="og:title" content="Academic Weblog – PCATI 2025 Workshop">
-<meta property="og:description" content="My Academic Weblog">
-<meta property="og:image" content="https://waga43.github.io/pcati-2025/assets/pcat-logo-white.png">
+<meta property="og:description" content="PCATI 2025 Academic Manuscripts">
+<meta property="og:image" content="https://waga43.github.io/PCATI-2025/assets/pcat-logo-white.png">
 <meta property="og:site_name" content="PCATI 2025 Workshop">
 <meta property="og:image:height" content="97">
 <meta property="og:image:width" content="336">
 <meta name="twitter:title" content="Academic Weblog – PCATI 2025 Workshop">
-<meta name="twitter:description" content="My Academic Weblog">
-<meta name="twitter:image" content="https://waga43.github.io/pcati-2025/assets/pcat-logo-white.png">
+<meta name="twitter:description" content="PCATI 2025 Academic Manuscripts">
+<meta name="twitter:image" content="https://waga43.github.io/PCATI-2025/assets/pcat-logo-white.png">
 <meta name="twitter:creator" content="@EduTechTainMent">
 <meta name="twitter:site" content="@EduTechTainMent">
 <meta name="twitter:image-height" content="97">
@@ -306,14 +306,14 @@ window.Quarto = {
 <!-- content -->
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
-    <div class="quarto-title column-page">
+    <div class="quarto-title column-page-left">
       <h1 class="title">Academic Weblog</h1>
-            <p class="subtitle lead">My Academic Weblog</p>
+            <p class="subtitle lead">PCATI 2025 Academic Manuscripts</p>
                       </div>
   </div>
     
   
-  <div class="quarto-title-meta column-page">
+  <div class="quarto-title-meta column-page-left">
 
       
     
@@ -324,11 +324,11 @@ window.Quarto = {
   </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    </div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-unnumbered"></div></div>
 <!-- main -->
-<main class="content quarto-banner-title-block column-page" id="quarto-document-content">
+<main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
 
 
 
@@ -590,7 +590,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/waga43\.github\.io\/pcati-2025\/");
+      var filterRegex = new RegExp("https:\/\/waga43\.github\.io\/PCATI-2025\/");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }

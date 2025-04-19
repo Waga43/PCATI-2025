@@ -1,6 +1,6 @@
 ---
 title: Public Works Weblog
-subtitle: My Public Speeches, Seminars, Workshops and Trainings Weblog
+subtitle: PCATI 2025 Public Speeches, Seminars, Workshops and Trainings Manuscripts
 
 listing:
   contents: publicworksblogposts
@@ -11,7 +11,7 @@ listing:
   grid-item-align: left
   max-description-length: 250
   date-format: medium
-  categories: cloud
+  categories: unnumbered
   sort-ui: true
   filter-ui: true
 page-layout: full

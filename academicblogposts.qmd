@@ -1,6 +1,6 @@
 ---
 title: Academic Weblog
-subtitle: My Academic Weblog
+subtitle: PCATI 2025 Academic Manuscripts
 listing:
   contents: academicblogposts
   feed: true
@@ -10,7 +10,7 @@ listing:
   grid-item-align: left
   max-description-length: 250
   date-format: medium
-  # categories: cloud
+  categories: unnumbered
   sort-ui: true
   filter-ui: true
 page-layout: full

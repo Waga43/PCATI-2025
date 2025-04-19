@@ -37,7 +37,7 @@ Welcome to the Physiology Career Awareness and Training Initiative (PCATI) 2025 
 **This workshop is proudly sponsored by:**
 ---
 
-![PCATI 2025 | Powered by the Physiological Society](assets\the-physiological-society-logo.png)
+[![PCATI 2025 | Powered by the Physiological Society](assets\the-physiological-society-logo.png)](https://physoc.org)
 
 
 <!-- {{< html "https://www.physoc.org/" height="500px" width="500px" >}} -->
