@@ -20,6 +20,16 @@ about:
       icon: github
       target: _blank
 
+    - text: "{{< ai google-scholar color=blue size=2xl >}} Google Scholar"
+      href: https://scholar.google.com
+      # icon: {{< ai google-scholar >}}
+      target: _blank
+    
+    - text: "{{< ai orcid color=green size=xl >}} ORCID"
+      href: https://orcid.org
+      # icon: {{< ai google-scholar >}}
+      target: _blank
+      
     - text: Email
       href: mailto:edutech_tm@gmail.com
       icon: envelope

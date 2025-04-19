@@ -1,6 +1,6 @@
 ---
 title: "Dr. Basheer Isah Waziri"
-image: assets\basheer-profile-image.png
+image: assets\basheer-profile-image2.jpg
 toc: false
 page-layout: full
 about: 
@@ -15,16 +15,27 @@ about:
       icon: linkedin
       target: _blank
 
-    # - text: GitHub
-    #   href: https://github.com/waga43
-    #   icon: github
-    #   target: _blank
+    - text: X (formerly Twitter)
+      href: https://github.com/waga43
+      icon: twitter
+      target: _blank
 
     - text: Email
       href: mailto:biwaziri.pys@buk.edu.ng
       icon: envelope
       target: _blank
 
+    - text: "{{< ai google-scholar color=blue size=2xl >}} Google Scholar"
+      href: https://scholar.google.com
+      # icon: {{< ai google-scholar >}}
+      target: _blank
+    
+    - text: "{{< ai orcid color=green size=xl >}} ORCID"
+      href: https://orcid.org
+      # icon: {{< ai google-scholar >}}
+      target: _blank
+
+      
     # - text: YouTube
     #   href: https://www.youtube.com/channel/UCAe5662cWJF5NW851ylT-qw
     #   icon: youtube

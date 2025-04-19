@@ -1,5 +1,5 @@
 ---
-title: "Dr. Hafsat Abubakar Kari"
+title: "Hafsat Abubakar Kari"
 image: assets\hafsat-profile-image.png
 toc: false
 page-layout: full
@@ -25,10 +25,15 @@ about:
       icon: envelope
       target: _blank
 
-    # - text: YouTube
-    #   href: https://www.youtube.com/channel/UCAe5662cWJF5NW851ylT-qw
-    #   icon: youtube
-    #   target: _blank
+    - text: "{{< ai google-scholar color=blue size=2xl >}} Google Scholar"
+      href: https://scholar.google.com
+      # icon: {{< ai google-scholar >}}
+      target: _blank
+    
+    - text: "{{< ai orcid color=green size=xl >}} ORCID"
+      href: https://orcid.org
+      # icon: {{< ai google-scholar >}}
+      target: _blank
 ---
 
 
@@ -41,6 +46,6 @@ Welcome to the Physiology Career Awareness and Training Initiative (PCATI) 2025 
 
 ---
 
-Hafsat Abubakar Kari is a PhD student at University of Bradford, England, United Kingdom. She is currently researching on Circadian Rythms of naked Mole rats - an extraordinary long-lived mammalian model for studying aging and cancer. 
+Hafsat Abubakar Kari is a PhD student at University of Bradford, England, United Kingdom. She is currently researching on Circadian rythms of naked Mole rats - an extraordinary long-lived mammalian model for studying aging and cancer. 
 
-Her main scientific interests are in neuroendocrinology and reproductive biology. She is an alumnus of Bayero University Kano.
+Her main scientific interests are in neuro-endocrinology and reproductive biology. She is an alumnus of Bayero University Kano.
