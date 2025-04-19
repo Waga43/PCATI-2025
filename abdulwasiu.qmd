@@ -29,10 +29,15 @@ about:
       href: https://orcid.org
       # icon: {{< ai google-scholar >}}
       target: _blank
-      
+
     - text: Email
       href: mailto:edutech_tm@gmail.com
       icon: envelope
+      target: _blank
+
+    - text: X (formerly Twitter)
+      href: https://x.com/waga43
+      icon: twitter
       target: _blank
 
     - text: YouTube
@@ -49,3 +54,37 @@ Welcome to the Physiology Career Awareness and Training Initiative (PCATI) 2025 
 
 ![](assets\the-physiological-society-logo.png)
 
+## Profile
+
+Head of Clinical and Immediate Past Director, University Health Services, Federal University Dutse (FUD), Jigawa state, Nigeria.
+
+Adjunct Lecturer, Dept. of Human Physiology, Faculty of Basic Medical Sciences, College of Medicine and Allied Medical Sciences, Federal University Dutse, Jigawa State, Nigeria.
+
+A. B. Popoola is a self-taught data scientist who started out as a health data analyst and web developer. This served to equip him with the necessary analytical skills to succeed in data science, AI and Machine Learning. He believes learning is a step-wise process. Over the years he has worked to gather the requisite soft and technical skills to make him succeed in this endeavour. Given the importance of domain knowledge, he believes that his domain expertise in healthcare, better positions him to perform as an excellent health analyst and ultimately a data scientist.
+
+He is a member of the Nigerian Medical Association (NMA), Member, Blacks in Technology, Nigeria and a Member, Data Science Network (DSN) and The Physiological Society, UK. He is also a DataCamp Classrooms Ambassador, Federal University Dutse and sole administrator of DataCamp Classrooms scholarships at FUD, mentoring, teaching and administering DataCamp scholarships to students of the university to help them gain globally relevant data skills. In addition, he is also a mentor to many other students, and staff members, both within and outside the university. 
+
+A. B. Popoola has a passion to learn, teach, impart knowledge and network with like minds both in the educational, health, and the IT domain. Thus he Founded EduTechTainMent Ltd (ETTM), an EdTech company that is involved in leveraging the use of technology in education and is the developer and administrator of [EduTechTainMent forum](https://edutechtainment.net), [EduTechTainMent Learning Management System](https://lms.edutechtainment.net) and [EduTechTainMent YouTube channel](https://www.youtube.com/@edutechtainmentguides).
+
+## Other Works & Awards
+
+In recognition of his skills, knowledge, contribution, and passion for the advancement of the use of data driven insights to drive medical education and innovation, he was invited as a guest speaker at several events some of which include:
+
+1. The Nigeria Medical Association (NMA) National Executive Council (NEC 2024) meeting in Kanem Borno during which I delivered a paper on **Artificial Intelligence (AI) and Health: Prospects and Challenges in Low- and Middle- Income Countries**. 
+
+2. Bayero University Medical Students Association (BUMSA) **Artificial Intelligence (AI) Symposium** Lectures on:
+   - AI Fundamentals
+   - Responsible use of AI by medical students and Professionals
+   - How to be AI Professional in Medicine: Resources, Guides and Mentorship
+
+3. Aminu Kano Teaching Hospital College Foundation Day (CFD) 2024 Lecture on: **Ethical and Legal Implications of AI in Healthcare**
+
+4. The Nigerian Medical Association (NMA) Jigawa State chapter, Scientific Conference and Annual General Meeting (AGM) paper on: **The Emergence of Artificial Intelligence and How it can Help in Modern Medical Practice.**
+
+5. The Nigerian Medical Association (NMA) Kano State chapter Annual General Meeting (AGM) Lecture on **Application of Basic Artificial Intelligence (AI) in Medical Profession/Practice**
+
+6. A paper titled: **The Rise of Telemedicine and Artificial Intelligence in Healthcare: A Boon or a Bane** for the Kano Medical Students Association (KAMSA) Journal.
+
+7. He was also a guest speaker at the KAMSA Health week 2025, during which he presented a paper titled: **The Emerging Landscape of Healthcare: Collaborative Intelligence.**
+
+9. Many more.....

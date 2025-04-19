@@ -1,6 +1,12 @@
 project:
   type: website
   output-dir: docs
+
+  # Configure the preview of your site on localhost
+  preview:
+    port: 4300
+    browser: true
+
 jupyter: python3
 # engine: knitr
 
