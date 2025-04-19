@@ -46,6 +46,6 @@ Fill out the below form to get started with your application. Do not forget to c
 <iframe width="640px" height="480px" src="https://forms.office.com/Pages/ResponsePage.aspx?id=54IdnKqzYk6E93Ylneezq2j38ey95PRFpc5TUYS-OI9UNElQUkRGMFoxMDRLOVdVUjRNNUxJNDhaMi4u&embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
 
 
-![Don't forget to submit your application](assets\submit-application.png)
+![Don't forget to submit your application by clicking on the *SUBMIT** BUTTON after filling the above application form](assets\submit-application.png)
 
 

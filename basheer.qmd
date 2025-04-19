@@ -1,6 +1,6 @@
 ---
 title: "Dr. Basheer Isah Waziri"
-# image: assets\pcat-logo-white.png
+image: assets\basheer-profile-image.png
 toc: false
 page-layout: full
 about: 
@@ -41,4 +41,59 @@ Welcome to the Physiology Career Awareness and Training Initiative (PCATI) 2025 
 
 ---
 
-{{< lipsum >}}
+Dr. Basheer Isah Waziri obtained his 1st degree in Medicine & Surgery (MBBS) - 2011 & thereafter did Masters (2018) and Ph.D in Human Physiology (Cardiovascular & Molecular Physiology)- 2023
+
+## Experience & Skills
+
+### Teaching
+10 years teaching experience (from 2014 to date), teaching Medical (MBBS), Dentistry (BDS), Allied health sciences, and core B.Sc, and M.Sc Physiology students.
+
+### Research
+
+- Research Project Supervision since 2014. Supervised over 20 undergraduate and 3 M.Sc research projects. Currently co- Supervising 2 Ph.D students.
+
+- Research interest: Investigating molecular mechanisms responsible for age and sex variation in the incidence and severity of cardiovascular diseases and their responses to treatments.
+
+### Some Administrative Responsibilities and Committees:
+
+- Deputy Director Administration & Instrumentation, Center for Biotechnology Research (May 2024 to date).
+
+- Assistant Postgraduate Coordinator, Department of Human Physiology (2023 to date).
+
+- Secretary, Core Curriculum Minimum Academic Standard Committee (CCMAS) -2023.
+
+- Secretary, Physiology Practical Review Committee.
+
+- Two time Level coordinator for Medical and Dentistry students (Level 1 to 3).
+
+- Level coordinator for Level 4 B.Sc Physiology Students (2020 - 2022).
+
+- Member Editorial Board, Pyramid Journal of Medicine (2022 - date)
+
+h. Member Publicity and Publication Committee, Nigerian Medical Association Kano 2021 - 2023
+
+### Engagement & Membership with Professional organizations
+
+- Member and Society rep. The Physiological Society UK (2018 - date)
+
+- Member American Physiological Society U.S.A (2023 - date)
+
+- Member African Association of Physiological Sciences (2018 - date)
+
+- Member, Nigerian Medical Association (NMA) - 2011 to date.
+
+- Served as a Judge for the Barbara Horwitz and John M. Horowitz Excellence in Undergraduate Research Award of American Physiological Society (2024).
+
+## Some Awards and Grants:
+
+- Best Researcher Award (2024)(Department of Human Physiology)- Awarded by the College of Health Sciences, Bayero University Kano.
+
+- Institutional Engagement Award by The Physiological Society (2023) for Physiology week 2023 event.
+
+- Award of Appreciation by Umaru Musa Yar'adua University Katsina in Collaboration with Katsina State Government, Nigeria (2024).
+
+- Professional Development Award by The Physiological Society (2022).
+
+- Ph.D research grant by the Directorate of Research Innovation & Partnership, Bayero University Kano.
+
+- Consecutive outreach grants by The Physiological Society for supporting Physiology Friday events.
