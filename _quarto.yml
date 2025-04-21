@@ -12,8 +12,8 @@ jupyter: python3
 
 # Website Options
 website:
-  title: "PCATI 2025 Workshop"
-  description: "Physiology Career Awareness and Training Initiative 2025 Workshop Website"
+  title: "PCATI 2025 Program"
+  description: "Physiology Career Awareness and Training Initiative 2025 Program Website"
   image: assets\pcat-logo-white.png
   site-url: "https://waga43.github.io/PCATI-2025/"
   google-analytics: "G-58YFBY5HDN"
@@ -25,7 +25,7 @@ website:
             <center><p>&copy; 2025, PCATI 2025. Some rights reserved. <br>This website is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by/4.0/deed.en">Creative Commons Attribution 4.0 International License</a></p></center>
 
   announcement:
-    content: "**🗣 Welcome to PCATI 2025 Workshop Website: Proudly Sponsored by [<mark>The Physiological Society &copy;</mark>](https://physoc.org)**"
+    content: "**🗣 Welcome to PCATI 2025 Program Website: Proudly Sponsored by [<mark>The Physiological Society &copy;</mark>](https://physoc.org)**"
     position: above-navbar
     type: success
 

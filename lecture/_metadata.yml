@@ -17,7 +17,7 @@ website:
   cookie-consent: true
 
   announcement:
-    content: "**🗣 Welcome to PCATI 2025 Workshop Website: Proudly Sponsored by [<mark>The Physiological Society &copy;</mark>](https://physoc.org)**"
+    content: "**🗣 Welcome to PCATI 2025 Program Website: Proudly Sponsored by [<mark>The Physiological Society &copy;</mark>](https://physoc.org)**"
     position: above-navbar
     type: success
 
