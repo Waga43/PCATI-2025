@@ -14,7 +14,7 @@ jupyter: python3
 website:
   title: "PCATI 2025 Program"
   description: "Physiology Career Awareness and Training Initiative 2025 Program Website"
-  image: assets\pcat-logo-white.png
+  image: assets\preview.png
   site-url: "https://waga43.github.io/PCATI-2025/"
   google-analytics: "G-58YFBY5HDN"
   page-navigation: true

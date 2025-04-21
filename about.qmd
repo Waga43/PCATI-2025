@@ -40,9 +40,9 @@ research to industry and clinical applications. This initiative will bridge this
 
 Through VR-based instruction, the program aims to equip lecturers with skills on how they can create immersive, interactive demonstrations that improve student engagement and comprehension. For example, using Human Anatomy VR, Complete HeartX, and 3D Organon, they can simulate complex physiological processes such as impulse transmission through the cardiac conduction system or respiratory mechanics, allowing students to explore these functions in a dynamic, three-dimensional environment. These demonstrations can also be recorded and saved as videos that can be accessed by students anytime in the future. Additionally, VR platforms like Body Interact provide realistic simulations for critical procedures like CPR, enabling students to practice life-saving techniques in an interactive and controlled setting.
 
-3. **Building Research and Clinical Capacity**: In many LMICs, including Nigeria, physiology research faces challenges due to limited expertise and access to advanced methodologies. To address these issues, our initiative will offer intensive, hands-on training covering essential molecular biology techniques such as nucleic acid extraction, polymerase chain reaction (PCR), and gel electrophoresis.
+3. **Building Research and Clinical Capacity**: In many LMICs, including Nigeria, physiology research faces challenges due to limited expertise and access to advanced methodologies. To address these issues, our initiative will offer intensive, hands-on training covering essential molecular biology techniques such as nucleic acid extraction, polymerase chain reaction (PCR), and gel electrophoresis. 
 
-Additionally, we will provide training in data analysis and the application of Artificial Intelligence (AI) in physiological research. These sessions are designed to equip participants with the necessary skills to conduct high-quality, innovative research, thereby enabling them to contribute significantly to the global scientific community.
+Additionally, we will provide training in data analysis and the application of Artificial Intelligence (AI) in physiological research. These sessions are designed to equip participants with the necessary skills to conduct high-quality, innovative research, thereby enabling them to contribute significantly to the global scientific community. 
 
 Through these approaches, this initiative addresses current gaps by promoting a collaborative and inclusive environment. Participants from various institutions and regions will engage in practical demonstrations, brainstorming sessions, and small group projects, encouraging the exchange of ideas and skills. The program also aims to establish a robust network of physiologists who can support each other in overcoming challenges unique to LMICs.
 The expected outcomes include increased awareness of diverse Physiology career opportunities, improved teaching methodologies and enhanced research capabilities and expertise.  These will lead to better employability, increased research output, and strengthened regional and international collaborations.
@@ -89,6 +89,7 @@ For the region, the initiative will address systemic barriers in physiology educ
 
 This initiative is expected to create lasting legacy, transforming physiology teaching, research, and professional development. 
 
+---
 
 <!-- ::: callout-important
 ## Motto
