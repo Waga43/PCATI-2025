@@ -1,6 +1,7 @@
 ---
 title: "ℹ️ About PCATI 2025 Program"
 subtitle: More Information About the Physiology Career Awareness and Training Initiative (PCATI) 2025 Program
+image: assets\pcat-logo-white.png
 citation: false
 ---
 
