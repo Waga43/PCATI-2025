@@ -29,7 +29,7 @@ about:
       href: https://scholar.google.com
       # icon: {{< ai google-scholar >}}
       target: _blank
-    
+
     - text: "{{< ai orcid color=green size=xl >}} ORCID"
       href: https://orcid.org
       # icon: {{< ai google-scholar >}}
@@ -39,12 +39,13 @@ about:
 
 Welcome to the Physiology Career Awareness and Training Initiative (PCATI) 2025 Website. It's a pleasure having you here.
 
-**This workshop is proudly sponsored by:**
+**This Program is Proudly Sponsored by:**
 ---
 
 ![](assets\the-physiological-society-logo.png)
 
 ---
+## Profile
 
 Hafsat Abubakar Kari is a PhD student at University of Bradford, England, United Kingdom. She is currently researching on Circadian rythms of naked Mole rats - an extraordinary long-lived mammalian model for studying aging and cancer. 
 

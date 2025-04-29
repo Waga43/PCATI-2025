@@ -1,6 +1,6 @@
 ---
 title: "Prof. Nafisa Yusuf Wali"
-# image: {{< plaeholder >}}
+image: assets\nafisa-profile-image.png
 toc: false
 page-layout: full
 about: 
@@ -29,7 +29,7 @@ about:
       href: https://scholar.google.com
       # icon: {{< ai google-scholar >}}
       target: _blank
-    
+
     - text: "{{< ai orcid color=green size=xl >}} ORCID"
       href: https://orcid.org
       # icon: {{< ai google-scholar >}}
@@ -44,11 +44,25 @@ about:
 
 Welcome to the Physiology Career Awareness and Training Initiative (PCATI) 2025 Website. It's a pleasure having you here.
 
-**This workshop is proudly sponsored by:**
+**This Program is Proudly Sponsored by:**
 ---
 
 ![](assets\the-physiological-society-logo.png)
 
 ---
 
-{{< lipsum >}}
+## Profile
+
+Prof. Nafisa Yusuf Wali (MBBS, M.Sc, Ph.D).
+
+Professor, Department of Human Physiology, Bayero University Kano, Nigeria.
+
+Visiting Professor, Northwest University, Kano
+
+**Member**: Physiological Society of Nigeria 
+
+**Role**: Teaching and Research 
+
+**Teaching Focus**: Training Medical, Allied Health Sciences and core Physiology and Anatomy students.
+
+**Research Focus**: Investigating Vit D among females in Northern Nigeria
