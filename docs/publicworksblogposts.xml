@@ -5,18 +5,18 @@
       xmlns:dc="http://purl.org/dc/elements/1.1/" 
       version="2.0">
 <channel>
-<title>PCATI 2025 Program</title>
+<title>PCATI-2025</title>
 <link>https://waga43.github.io/PCATI-2025/publicworksblogposts.html</link>
 <atom:link href="https://waga43.github.io/PCATI-2025/publicworksblogposts.xml" rel="self" type="application/rss+xml"/>
 <description>Physiology Career Awareness and Training Initiative 2025 Program Website</description>
 <image>
 <url>https://waga43.github.io/PCATI-2025/assets/preview.png</url>
-<title>PCATI 2025 Program</title>
+<title>PCATI-2025</title>
 <link>https://waga43.github.io/PCATI-2025/publicworksblogposts.html</link>
 <height>42</height>
 <width>144</width>
 </image>
 <generator>quarto-1.6.42</generator>
-<lastBuildDate>Tue, 29 Apr 2025 07:16:03 GMT</lastBuildDate>
+<lastBuildDate>Thu, 01 May 2025 05:27:00 GMT</lastBuildDate>
 </channel>
 </rss>

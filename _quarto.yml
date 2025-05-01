@@ -12,7 +12,7 @@ jupyter: python3
 
 # Website Options
 website:
-  title: "PCATI 2025 Program"
+  title: "PCATI-2025"
   description: "Physiology Career Awareness and Training Initiative 2025 Program Website"
   image: assets\preview.png
   site-url: "https://waga43.github.io/PCATI-2025/"
