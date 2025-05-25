@@ -1,6 +1,6 @@
 ---
 title: "PCATI 2025 Pre-Program Survey"
-image: assets\application-letter.png
+image: assets\surveys.png #assets\survey.png
 toc: false
 page-layout: full
 about: 
@@ -39,9 +39,12 @@ Welcome to the Physiology Career Awareness and Training Initiative (PCATI) 2025 
 
 ![](assets\the-physiological-society-logo.png)
 
-Fill out the below survey to help us tailor the program to your needs. Do not forget to click on the submission button once you are done filling your survey.
+---
+
 
 ## PCATI 2025 Pre-program Survey
+
+Fill out the below survey to help us tailor the program to your needs. Do not forget to click on the submission button once you are done filling your survey.
 
 <!-- <iframe width="640px" height="480px" src="https://forms.office.com/Pages/ResponsePage.aspx?id=54IdnKqzYk6E93Ylneezq2j38ey95PRFpc5TUYS-OI9UNElQUkRGMFoxMDRLOVdVUjRNNUxJNDhaMi4u&embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe> -->
 
@@ -49,6 +52,6 @@ Fill out the below survey to help us tailor the program to your needs. Do not fo
 <iframe width="640px" height="480px" src="https://forms.cloud.microsoft/r/HMgwVRes5B?embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
 
 
-![Don't forget to submit your Survey by clicking on the *SUBMIT** BUTTON after filling the above pre-program survey form](assets\submit-application.png)
+![Don't forget to submit your Survey by clicking on the *SUBMIT** BUTTON after filling the above pre-program survey form](assets\submit-applications.png)
 
 
