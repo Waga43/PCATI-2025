@@ -141,6 +141,9 @@ website:
           - text: "ℹ️ About PCATI 2025"
             href: about.qmd
 
+          - text: "📜 Pre-Program Survey"
+            href: presurvey.qmd
+
           - text: "📖 Application"
             href: application.qmd
 
