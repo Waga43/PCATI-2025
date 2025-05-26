@@ -142,7 +142,8 @@ website:
             href: about.qmd
 
           - text: "📜 Pre-Program Survey"
-            href: presurvey.qmd
+            href: presurvey.qmd # https://forms.cloud.microsoft/r/HMgwVRes5B 
+            # target: _blank
 
           - text: "📖 Application"
             href: application.qmd
@@ -197,6 +198,10 @@ website:
           - text: "🌍 CBR, BUK"
             # icon: graduation-cap
             href: https://www.buk.edu.ng/node/82
+            target: _blank
+
+          - text: "📜 Pre-program Survey"
+            href: https://forms.cloud.microsoft/r/HMgwVRes5B
             target: _blank
 
       - text: "🌈 RSS Feeds"

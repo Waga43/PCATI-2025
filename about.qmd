@@ -7,7 +7,11 @@ citation: false
 
 ## Introduction
 
-Welcome to the Physiology Career Awareness and Training Initiative (PCATI) Program 2025. 
+Welcome to the Physiology Career Awareness and Training Initiative (PCATI) Program 2025. This program is funded by The Physiological Society (UK), through the International Development Support Fund..
+
+![PCATI-2025 | Funded by The Physiological Society](assets\the-physiological-society-logo.jpg){fig-align="center"}
+
+PCATI-2025 is scheduled to take place between 4th to 6th August 2025 will be hosted by the Department of Human Physiology, Bayero University Kano in collaboration with the Department of Human Physiology, Federal University Dutse and the Center for Biotecnology Research (CBR), Bayero University Kano.
 
 ![](assets\pcat-logo-white.png){fig-align="center"}
 
@@ -15,8 +19,7 @@ Welcome to the Physiology Career Awareness and Training Initiative (PCATI) Progr
 
 ## Project Brief
 
-The "Physiology Career Awareness and Training Initiative" is a transformative program designed to address critical gaps in physiology education, research, and career development in 
-low- and middle-income countries (LMICs) like Nigeria. These gaps include:
+The "Physiology Career Awareness and Training Initiative" (PCATI) is a transformative program designed to address critical gaps in physiology education, research, and career development in low- and middle-income countries (LMICs) like Nigeria. These gaps include:
 
 - limited awareness of diverse career opportunities in physiology
 
