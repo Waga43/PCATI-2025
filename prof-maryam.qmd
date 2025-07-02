@@ -1,0 +1,105 @@
+---
+title: "Prof. Maryam Baraka Akor-Dewu (BSc., M.Sc, Ph.D)"
+image: assets\prof-maryam.png
+toc: false
+page-layout: full
+about: 
+  template: jolla # jolla trestles solana marquee broadside
+  image-shape: round
+  image-alt: Prof. Maryam Baraka Akor-Dewu
+  image-title: Prof. Maryam Baraka Akor-Dewu Profile Image
+  image-width: 17em
+  links:
+    - text: LinkedIn
+      href: https://ng.linkedin.com/
+      icon: linkedin
+      target: _blank
+
+    - text: X (formerly Twitter)
+      href: https://x.com/
+      icon: twitter
+      target: _blank
+
+    - text: Email
+      href: mailto:maryamdewu02@gmail.com
+      icon: envelope
+      target: _blank
+
+    - text: "{{< ai google-scholar color=blue size=2xl >}} Google Scholar"
+      href: https://scholar.google.com
+      # icon: {{< ai google-scholar >}}
+      target: _blank
+    
+    - text: "{{< ai orcid color=green size=xl >}} ORCID"
+      href: https://orcid.org
+      # icon: {{< ai google-scholar >}}
+      target: _blank
+
+
+    # - text: YouTube
+    #   href: https://www.youtube.com/channel/UCAe5662cWJF5NW851ylT-qw
+    #   icon: youtube
+    #   target: _blank
+---
+
+
+Welcome to the Physiology Career Awareness and Training Initiative (PCATI) 2025 Website. It's a pleasure having you here.
+
+**This Program is Proudly Sponsored by:**
+---
+
+![](assets\the-physiological-society-logo.png)
+
+---
+
+::: callout-important
+## Facilitator's Institutional Affiliation
+
+Ahmadu Bello University (ABU), Zaria, Kaduna State, Nigeria
+:::
+## Profile/Citation
+
+Professor Maryam Baraka Akor-Dewu is a scholar and educator in the field of Human Physiology, with a career spanning over two decades at Ahmadu Bello University, Zaria, having risen through the ranks to become a professor, which is a testament to her dedication, intellectual rigor, and leadership.
+
+Her academic journey, rooted in Ahmadu Bello University, reflects a steadfast commitment to excellence. She earned her B.Sc, M.Sc., and Ph.D. in Human Physiology, laying a strong foundation. Her work spans critical areas such as oxidative stress, reproductive health, environmental physiology, and the impacts of substance exposure on physiological systems. Her numerous peer reviewed articles, demonstrate her ability to bridge complex scientific concepts with real world applications, particularly in resource-challenged settings.
+
+As an educator, Professor Akor-Dewu has mentored countless undergraduate and postgraduate students, supervising numerous theses and dissertations. Her teaching portfolio covers a wide range of physiology courses, enriching the academic experience of her students. Her leadership roles, including the Deputy Director of Ahmadu Bello University, Distance Learning Centre which she currently holds, Head of the Department of Human Physiology and membership in various university committees, highlight her administrative acumen and dedication to institutional growth.
+
+Beyond the university walls, Professor Akor-Dewu is an active member of prestigious professional societies, including the Physiological Society of Nigeria (PSN), Society for Occupational Safety and Environmental Health (SOSEH) and Science Association of Nigeria (SAN). Her participation in international workshops and conferences, from Porto to Kigali, underscores her global engagement and collaborative spirit.
+
+Her research has advanced scientific knowledge and addressed pressing health challenges in Nigeria, from the effects of biomass fuel exposure to the physiological impacts of local substances like local alcoholic beverages. Her work is a blend of innovation, relevance, and a deep commitment to improving human health.
+
+## Academic and Professional Qualification(s)s
+
+1️⃣ Certificate in Leadership Management Communication, Region 6 South Central Public Health Training Center.
+
+2️⃣ Certificate in Budget Planning and Management, Region 6 South Central Public Health Training Center.
+
+3️⃣ B.Sc Human Physiology, Ahmadu Bello University, zaria.
+
+4️⃣ MSc. Human Physiology, Ahmadu Bello University, Zaria.
+
+5️⃣ PhD Human Physiology, Ahmadu Bello University, Zaria.
+
+## Leadership Role(s)/Position(s) and Membership(s)
+
+1️⃣ Deputy Director, Ahmadu Bello University (ABU), Distance Learning Centre
+
+2️⃣ Head of Department, Human Physiology, ABU
+
+3️⃣ Member, Board of Postgraduate College, ABU
+
+4️⃣ Member, Senate Standing Committee, ABU
+
+<!-- **Role:** Teaching and Research 
+
+**Teaching Focus:** Training Medical, Allied Health Sciences and core Physiology and Anatomy students.
+
+**Research Focus:** Investigating population specific mutations associated with cardiovascular and other diseases of public health concern
+
+## Current Research Projects
+➡️ Investigating genetic predisposition to preeclampsia in Northern Nigeria
+
+➡️ Population Specific Mutations linked to familial hypercholesterolemia. -->
+
+---

@@ -1,0 +1,111 @@
+---
+title: "Dr. Nasiru ABdullahi (BSc., MSc., PhD)"
+image: assets\nasiru.png
+toc: false
+page-layout: full
+about: 
+  template: jolla # jolla trestles solana marquee broadside
+  image-shape: round
+  image-alt: Dr. Nasiru Abdullahi
+  image-title: Dr. Nasiru Abdullahi Profile Image
+  image-width: 17em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/nasiru-abdullahi-ph-d-60aa0037/
+      icon: linkedin
+      target: _blank
+
+    - text: X (formerly Twitter)
+      href: https://x.com/
+      icon: twitter
+      target: _blank
+
+    - text: Email
+      href: mailto:nabdullahi.bch@buk.edu.ng
+      icon: envelope
+      target: _blank
+
+    - text: "{{< ai google-scholar color=blue size=2xl >}} Google Scholar"
+      href: https://scholar.google.com
+      # icon: {{< ai google-scholar >}}
+      target: _blank
+    
+    - text: "{{< ai orcid color=green size=xl >}} ORCID"
+      href: https://orcid.org/0000-0002-8145-3399
+      # icon: {{< ai google-scholar >}}
+      target: _blank
+
+    - text: "{{< ai researchgate >}} Research Gate"
+      href: https://www.researchgate.net/profile/Nasiru_Abdullahi4
+      # icon: {{< ai google-scholar >}}
+      target: _blank
+
+
+    # - text: YouTube
+    #   href: https://www.youtube.com/channel/UCAe5662cWJF5NW851ylT-qw
+    #   icon: youtube
+    #   target: _blank
+---
+
+Welcome to the Physiology Career Awareness and Training Initiative (PCATI) 2025 Website. It's a pleasure having you here.
+
+## **This Program is Proudly Sponsored by:**
+
+![](assets\the-physiological-society-logo.png)
+
+------------------------------------------------------------------------
+
+::: callout-important
+## Facilitator's Institutional Affiliation
+
+Bayero University Kano (BUK), Kano State, Nigeria
+:::
+
+## Profile/Citation
+
+**Professional Summary:**
+Dr. Nasiru Abdullahi is a highly experienced researcher and educator in medical biochemistry and molecular biology with over a decade of academic and research contributions. He holds a Ph.D. in Molecular Enzymology from the University of Malaya, Malaysia, and a Master’s degree in Molecular Genetics and Diagnostics from the University of Nottingham, United Kingdom. His research areas include recombinant protein generation, genetic polymorphism identification, bioinformatics, molecular docking, and drug design, with a focus on understanding genetic factors influencing diseases such as diabetes and COPD.
+
+**Research & Expertise:**
+With extensive expertise in molecular genetics, Dr. Nasiru has cloned and expressed proteins, identified disease-associated SNPs, and applied advanced bioinformatics tools for functional analysis. His laboratory skills encompass DNA extraction, DNA amplification, protein purification using FPLC, molecular docking techniques, and high-throughput genomics analyses. He has authored over 30 peer-reviewed articles and actively presents at scientific conferences, demonstrating his leadership in genomics research.
+
+**Teaching & Mentorship:**
+At Bayero University Kano, he teaches undergraduate and postgraduate courses including Genetic Engineering, Bioinformatics, Molecular Pathogenesis, and Biochemical Methods. He supervises numerous MSc and PhD research projects, fostering capacity in molecular biology, genomics, and bioinformatics.
+
+**Capacity Building & Professional Engagement:**
+Dr. Nasiru has conducted workshops and training programs on bioinformatics workflows, next-generation sequencing (NGS), vaccine design, and molecular techniques, both locally and internationally. His active memberships include the Nigerian Society of Biochemistry and Molecular Biology (NSBMB), Nigerian Institute of Food Science and Technology (NIFST), and Asia-Pacific Chemical, Biological and Environmental Engineering Society (APCBEES).
+
+**Current Role & Leadership in Genomics:**
+Currently, Dr. Nasiru is on secondment at the Kano Independent Research Centre Trust (KIRCT), serving as the Laboratory Coordinator and Head of the newly established State-of-the-Art Genomics and Molecular Biology Laboratory in Kano. This cutting-edge facility represents a significant advancement in genomic research and molecular diagnostics in the region, and his leadership is pivotal to its development and operational excellence.
+
+**As a Genomics Trainer:**
+With his profound background in molecular genetics, SNP analysis, bioinformatics, and laboratory management, Dr. Nasiru is well-equipped to facilitate advanced training in genomics. His practical expertise, coupled with his leadership at the premier genomics facility in Kano, makes him a valuable resource for training in next-generation sequencing, genomic data analysis, gene polymorphism detection, and bioinformatics applications.
+
+## Academic and Professional Qualifications
+
+1️⃣ BSc in Biochemistry
+
+2️⃣ MSc in Molecular Genetics and Diagnostics
+
+3️⃣ PhD in Molecular Enzymology
+
+## Leadership Role(s)/Position(s) and Membership(s)
+
+1️⃣ Laboratory Coordinator and Head of Genomics and Molecular Biology Laboratory. Kano Independent Research Centre Trust (KIRCT)
+
+
+
+```{=html}
+<!-- **Role:** Teaching and Research 
+
+**Teaching Focus:** Training Medical, Allied Health Sciences and core Physiology and Anatomy students.
+
+**Research Focus:** Investigating population specific mutations associated with cardiovascular and other diseases of public health concern
+
+## Current Research Projects
+➡️ Investigating genetic predisposition to preeclampsia in Northern Nigeria
+
+➡️ Population Specific Mutations linked to familial hypercholesterolemia. -->
+```
+
+------------------------------------------------------------------------

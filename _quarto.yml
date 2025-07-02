@@ -135,7 +135,8 @@ website:
       # - logo: assets\001_White_ETTM_Logo-Rectangle.jpg
       - href: index.qmd
         text: 🏠 Home
-      
+
+# Getting Started      
       - text: "▶️ Get Started"
         menu:
           - text: "ℹ️ About PCATI 2025"
@@ -148,6 +149,7 @@ website:
           - text: "📖 Application"
             href: application.qmd
 
+# Organizers
       - text: "🎓 Organizers"
         # icon: fa-graduation-cap # pencil
         menu:
@@ -163,6 +165,24 @@ website:
           - text: "👨🏽‍🎓 Dr. Abdulwasiu B. Popoola"
             href: abdulwasiu.qmd
 
+# Invited Speaker
+      - text: "👨‍🏫 Invited Speakers"
+      # icon: fa-graduation-cap # pencil
+        menu:
+          - text: "👨🏽‍🎓 Prof. Maryam Baraka Akor-Dewu"
+            href: prof-maryam.qmd
+
+# Workshop Facilitators
+      - text: "👨🏾‍💻 Workshop Facilitators"
+      # icon: fa-graduation-cap # pencil
+        menu:
+          - text: "👨🏾‍⚕️ Dr. Nasiru Abdullahi"
+            href: dr-nasiru.qmd
+
+          - text: "👩🏽‍⚕️ Samirah Yahuza Bello"
+            href: samirah.qmd
+
+# PCATI2025 Blog
       - text:  ✍🏾 PCATI Blog
         menu:
           - text: "📔 Lectures & Seminars"

@@ -31,26 +31,30 @@ about:
       target: _blank
 ---
 
-
 Welcome to the Physiology Career Awareness and Training Initiative (PCATI) 2025 Program Website. It's a pleasure having you here.
 
-[![](assets\pcat-logo-white.png)](https://waga43.github.io/PCATI-2025){fig-align="center"}
----
+## [![](assets\pcat-logo-white.png)](https://waga43.github.io/PCATI-2025){fig-align="center"}
 
 **This workshop is proudly sponsored by The Physiological Society International Development Support Fund:**
 
-
-[![PCATI 2025 | Powered by the Physiological Society](assets\the-physiological-society-logo.png)](https://physoc.org)
-
+[![PCATI 2025 \| Powered by the Physiological Society](assets\the-physiological-society-logo.png)](https://physoc.org)
 
 <!-- {{< html "https://www.physoc.org/" height="500px" width="500px" >}} -->
 
----
----
+------------------------------------------------------------------------
+
+------------------------------------------------------------------------
 
 ```{=html}
 <iframe width="350" height="400" src="https://physoc.org/" title="Physoc Website"></iframe>
 ```
+
+::: callout-note
+## PCATI-2025 Application is Closed 
+
+Applications for the Physiology Career Awareness and Training Initiative (PCATI) 2025 Program **closed** on 30th June 2025.
+:::
+
 ---
 ## PCATI 2025 Program Host
 
@@ -71,7 +75,6 @@ Welcome to the Physiology Career Awareness and Training Initiative (PCATI) 2025 
 [![Bayero University Kano](assets\buk3.png)](https://buk.edu.ng)
 
 :::
-
 ---
 
 ## PCATI 2025 Program Collaborators
@@ -80,14 +83,14 @@ Welcome to the Physiology Career Awareness and Training Initiative (PCATI) 2025 
 ## [Federal University Dutse](https://fud.edu.ng)
 
 [![Federal University Dutse](assets\fud3.png)](https://fud.edu.ng)
-
 :::
 
 ::: panel-tabset
 ## [Center for Biotechnology Research, Bayero University Kano](https://www.linkedin.com/company/center-for-biotechnology-research-bayero-university-kano)
 
 [![Center for Biotechnology Research, Bayero University Kano](assets\cbr2.png)](https://www.linkedin.com/company/center-for-biotechnology-research-bayero-university-kano)
-
 :::
 
+```{=html}
 <script async data-uid="d50aa5484f" src="https://edutechtainment.kit.com/d50aa5484f/index.js"></script>
+```

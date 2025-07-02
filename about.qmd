@@ -9,23 +9,23 @@ citation: false
 
 Welcome to the Physiology Career Awareness and Training Initiative (PCATI) Program 2025. This program is funded by The Physiological Society (UK), through the International Development Support Fund..
 
-![PCATI-2025 | Funded by The Physiological Society](assets\the-physiological-society-logo.jpg){fig-align="center"}
+![PCATI-2025 \| Funded by The Physiological Society](assets\the-physiological-society-logo.jpg){fig-align="center"}
 
 PCATI-2025 is scheduled to take place between 4th to 6th August 2025 will be hosted by the Department of Human Physiology, Bayero University Kano in collaboration with the Department of Human Physiology, Federal University Dutse and the Center for Biotecnology Research (CBR), Bayero University Kano.
 
 ![](assets\pcat-logo-white.png){fig-align="center"}
 
----
+------------------------------------------------------------------------
 
 ## Project Brief
 
 The "Physiology Career Awareness and Training Initiative" (PCATI) is a transformative program designed to address critical gaps in physiology education, research, and career development in low- and middle-income countries (LMICs) like Nigeria. These gaps include:
 
-- limited awareness of diverse career opportunities in physiology
+-   limited awareness of diverse career opportunities in physiology
 
-- inadequate adoption of advanced teaching methodologies 
+-   inadequate adoption of advanced teaching methodologies
 
-- insufficient research capacity. 
+-   insufficient research capacity.
 
 By targeting these challenges, the initiative seeks to inspire, empower, and equip participants with the knowledge, skills, and tools required to excel in the field of physiology.
 
@@ -33,25 +33,23 @@ By directly addressing the challenges faced by physiology lecturers, who navigat
 
 ## Project Focus
 
-The Project Focuses on Three Key objectives: 
+The Project Focuses on Three Key objectives:
 
-1. **Raising Awareness about Diverse Physiology Careers**:
-Despite the vast potential of physiology as a discipline, many students and graduates in LMICs are unaware of the diverse career paths it offers, ranging from academia and 
-research to industry and clinical applications. This initiative will bridge this gap through inspirational presentations by renowned speakers, interactive round table discussions, and participant-led sessions. By showcasing success stories and pathways, the program will motivate students, graduates, and professionals to explore and pursue rewarding careers in physiology.
+1.  **Raising Awareness about Diverse Physiology Careers**: Despite the vast potential of physiology as a discipline, many students and graduates in LMICs are unaware of the diverse career paths it offers, ranging from academia and research to industry and clinical applications. This initiative will bridge this gap through inspirational presentations by renowned speakers, interactive round table discussions, and participant-led sessions. By showcasing success stories and pathways, the program will motivate students, graduates, and professionals to explore and pursue rewarding careers in physiology.
 
-2. **Improving & Enhancing Physiology Teaching**: Traditional teaching methods often fall short in engaging students and preparing them for modern challenges. This program will introduce advanced teaching technologies, such as Virtual Reality (VR) for immersive and interactive learning experiences, and use of Learning Management Systems (LMS) for improving engagement and providing dynamic assessment tools. These innovations will not only make learning more effective but also enhance the overall teaching quality in institutions. By training educators in these technologies, the initiative will empower them to modernize their teaching practices, thereby addressing the gap in contemporary physiology education in LMICs.
+2.  **Improving & Enhancing Physiology Teaching**: Traditional teaching methods often fall short in engaging students and preparing them for modern challenges. This program will introduce advanced teaching technologies, such as Virtual Reality (VR) for immersive and interactive learning experiences, and use of Learning Management Systems (LMS) for improving engagement and providing dynamic assessment tools. These innovations will not only make learning more effective but also enhance the overall teaching quality in institutions. By training educators in these technologies, the initiative will empower them to modernize their teaching practices, thereby addressing the gap in contemporary physiology education in LMICs.
 
 Through VR-based instruction, the program aims to equip lecturers with skills on how they can create immersive, interactive demonstrations that improve student engagement and comprehension. For example, using Human Anatomy VR, Complete HeartX, and 3D Organon, they can simulate complex physiological processes such as impulse transmission through the cardiac conduction system or respiratory mechanics, allowing students to explore these functions in a dynamic, three-dimensional environment. These demonstrations can also be recorded and saved as videos that can be accessed by students anytime in the future. Additionally, VR platforms like Body Interact provide realistic simulations for critical procedures like CPR, enabling students to practice life-saving techniques in an interactive and controlled setting.
 
-3. **Building Research and Clinical Capacity**: In many LMICs, including Nigeria, physiology research faces challenges due to limited expertise and access to advanced methodologies. To address these issues, our initiative will offer intensive, hands-on training covering essential molecular biology techniques such as nucleic acid extraction, polymerase chain reaction (PCR), and gel electrophoresis. 
+3.  **Building Research and Clinical Capacity**: In many LMICs, including Nigeria, physiology research faces challenges due to limited expertise and access to advanced methodologies. To address these issues, our initiative will offer intensive, hands-on training covering essential molecular biology techniques such as nucleic acid extraction, polymerase chain reaction (PCR), and gel electrophoresis.
 
-Additionally, we will provide training in data analysis and the application of Artificial Intelligence (AI) in physiological research. These sessions are designed to equip participants with the necessary skills to conduct high-quality, innovative research, thereby enabling them to contribute significantly to the global scientific community. 
+Additionally, we will provide training in data analysis and the application of Artificial Intelligence (AI) in physiological research. These sessions are designed to equip participants with the necessary skills to conduct high-quality, innovative research, thereby enabling them to contribute significantly to the global scientific community.
 
-Through these approaches, this initiative addresses current gaps by promoting a collaborative and inclusive environment. Participants from various institutions and regions will engage in practical demonstrations, brainstorming sessions, and small group projects, encouraging the exchange of ideas and skills. The program also aims to establish a robust network of physiologists who can support each other in overcoming challenges unique to LMICs.
-The expected outcomes include increased awareness of diverse Physiology career opportunities, improved teaching methodologies and enhanced research capabilities and expertise.  These will lead to better employability, increased research output, and strengthened regional and international collaborations.
+Through these approaches, this initiative addresses current gaps by promoting a collaborative and inclusive environment. Participants from various institutions and regions will engage in practical demonstrations, brainstorming sessions, and small group projects, encouraging the exchange of ideas and skills. The program also aims to establish a robust network of physiologists who can support each other in overcoming challenges unique to LMICs. The expected outcomes include increased awareness of diverse Physiology career opportunities, improved teaching methodologies and enhanced research capabilities and expertise. These will lead to better employability, increased research output, and strengthened regional and international collaborations.
 
 ## Target Participants
-The Initiative is strategically and specifically designed to support physiology lecturers and students, who play a critical role in shaping the future of physiology through teaching and research. 
+
+The Initiative is strategically and specifically designed to support physiology lecturers and students, who play a critical role in shaping the future of physiology through teaching and research.
 
 We anticipate engaging 60 to 70 participants from institutions across Northern and Southern Nigeria, ensuring national representation and collaboration. The program will provide targeted training sessions, career development opportunities, and exposure to cutting-edge advancements in physiology research and education.
 
@@ -59,43 +57,45 @@ However, to broaden impact and enhance career prospects, we will also invite key
 
 Additionally, we will engage physiology educators and students from neighbouring countries, particularly the Republic of Niger, facilitating a broader West African network of physiology professionals.
 
-Practical training workshops will have specified participant limits and target groups to maximize relevance and engagement as follows: 
+Practical training workshops will have specified participant limits and target groups to maximize relevance and engagement as follows:
 
-1.	**BLS Training (CPR)**: for all interested participants.
+1.  **BLS Training (CPR)**: for all interested participants.
 
-2.	**VR Training for Teaching**: Tailored for students and educators aiming to enhance physiology teaching using immersive technologies; Maximum 20 participants.
+2.  **VR Training for Teaching**: Tailored for students and educators aiming to enhance physiology teaching using immersive technologies; Maximum 20 participants.
 
-3.	**Molecular Biology Techniques Training**: Geared towards researchers and postgraduate students eager to expand their research capacity in molecular physiology; Maximum of 15 participants.
+3.  **Molecular Biology Techniques Training**: Geared towards researchers and postgraduate students eager to expand their research capacity in molecular physiology; Maximum of 15 participants.
 
-4.	**Use of referencing Tool & Data Analysis (Zotero, SPSS)**: Maximum of 20 participants. 
+4.  **Use of referencing Tool & Data Analysis (Zotero, SPSS)**: Maximum of 20 participants.
 
-5.	**LMS Training**: Targeting lecturers and teaching assistants to empower them with interactive tools for modern teaching; maximum of 20 participants.
-The program will feature expert trainers and speakers in modern physiology teaching, molecular biology, referencing tools and data analysis.
-
+5.  **LMS Training**: Targeting lecturers and teaching assistants to empower them with interactive tools for modern teaching; maximum of 20 participants. The program will feature expert trainers and speakers in modern physiology teaching, molecular biology, referencing tools and data analysis.
 
 ## Benefits to the Target Audience and Region
+
 PCATI offers several benefits to its participants and the wider region by addressing critical barriers in physiology teaching, research, and career awareness, particularly in universities across low- and middle-income countries like Nigeria.
 
 For the target audience, the initiative provides unparalleled opportunities:
 
-1.	Students and graduates will gain critical insight and exposure to diverse career pathways in physiology. Hands-on training in essential research methods and techniques will equip them with practical skills vital for academic and industry careers. The program also offers significant networking opportunities, connecting students with experts in diverse fields and potential mentors who can guide their academic and professional journeys.
+1.  Students and graduates will gain critical insight and exposure to diverse career pathways in physiology. Hands-on training in essential research methods and techniques will equip them with practical skills vital for academic and industry careers. The program also offers significant networking opportunities, connecting students with experts in diverse fields and potential mentors who can guide their academic and professional journeys.
 
-2.	Lecturers will benefit from training in Virtual Reality (VR) and Learning Management Systems (LMS), empowering them to adopt innovative teaching methods that engage students more effectively. Through VR-based instruction, lecturers will learn to create immersive, interactive demonstrations that improve student engagement and comprehension. Workshops on molecular biology, referencing, data analysis and AI integration in research will improve their ability to conduct high-impact studies, increasing the global competitiveness of their institutions.
+2.  Lecturers will benefit from training in Virtual Reality (VR) and Learning Management Systems (LMS), empowering them to adopt innovative teaching methods that engage students more effectively. Through VR-based instruction, lecturers will learn to create immersive, interactive demonstrations that improve student engagement and comprehension. Workshops on molecular biology, referencing, data analysis and AI integration in research will improve their ability to conduct high-impact studies, increasing the global competitiveness of their institutions.
 
 For the region, the initiative will address systemic barriers in physiology education and research:
 
-1. **Improving Physiology Teaching**: By equipping university educators with modern tools and technologies, the program will significantly improve the delivery of physiology courses, making learning more interactive and impactful for students.
+1.  **Improving Physiology Teaching**: By equipping university educators with modern tools and technologies, the program will significantly improve the delivery of physiology courses, making learning more interactive and impactful for students.
 
-2. **Enhancing Research Capacity**: The training in molecular biology techniques, data analysis and use of referencing tools will empower researchers to undertake advanced  studies, contributing to the global body of knowledge and addressing local health challenges.
+2.  **Enhancing Research Capacity**: The training in molecular biology techniques, data analysis and use of referencing tools will empower researchers to undertake advanced studies, contributing to the global body of knowledge and addressing local health challenges.
 
-3. **Networking and Mentorship**: The program will bring together participants from multiple institutions, regions, and neighboring countries, facilitating collaborations and mentorship that extend beyond the event. 
+3.  **Networking and Mentorship**: The program will bring together participants from multiple institutions, regions, and neighboring countries, facilitating collaborations and mentorship that extend beyond the event.
 
-This initiative is expected to create lasting legacy, transforming physiology teaching, research, and professional development. 
+This initiative is expected to create lasting legacy, transforming physiology teaching, research, and professional development.
 
----
+------------------------------------------------------------------------
 
+```{=html}
 <!-- ::: callout-important
 ## Motto
 
 > "Over Every Possessor of Knowledge, There is (Some) One (Else) More Knowledgeable"
 ::: -->
+```
+

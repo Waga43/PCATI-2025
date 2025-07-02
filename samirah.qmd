@@ -1,0 +1,96 @@
+---
+title: "Mrs. Samirah Yahuza Bello"
+image: assets\samirah.png
+toc: false
+page-layout: full
+about: 
+  template: jolla # jolla trestles solana marquee broadside
+  image-shape: round
+  image-alt: Mrs. Samirah Yahuza Bello
+  image-title: Mrs. Samirah Yahuza Bello Profile Image
+  image-width: 17em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/samirah-bello-986018188?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+      icon: linkedin
+      target: _blank
+
+    - text: X (formerly Twitter)
+      href: https://x.com/
+      icon: twitter
+      target: _blank
+
+    - text: Email
+      href: mailto:sybello.cbr@buk.edu.ng
+      icon: envelope
+      target: _blank
+
+    - text: "{{< ai google-scholar color=blue size=2xl >}} Google Scholar"
+      href: https://scholar.google.com
+      # icon: {{< ai google-scholar >}}
+      target: _blank
+    
+    - text: "{{< ai orcid color=green size=xl >}} ORCID"
+      href: https://orcid.org
+      # icon: {{< ai google-scholar >}}
+      target: _blank
+
+
+    # - text: YouTube
+    #   href: https://www.youtube.com/channel/UCAe5662cWJF5NW851ylT-qw
+    #   icon: youtube
+    #   target: _blank
+---
+
+Welcome to the Physiology Career Awareness and Training Initiative (PCATI) 2025 Website. It's a pleasure having you here.
+
+## **This Program is Proudly Sponsored by:**
+
+![](assets\the-physiological-society-logo.png)
+
+------------------------------------------------------------------------
+
+::: callout-important
+## Speaker's Institutional Affiliation
+
+Bayero University Kano (BUK), Kano State, Nigeria
+:::
+
+## Profile/Citation
+
+Mrs. Samirah's academic journey is driven by a strong passion for life sciences, with a focus on biology and biotechnology. She holds a B.Sc. in Applied Biology and a PGD in Biotechnology, which provided her with solid training in molecular diagnostics, genetic engineering, and bioinformatics.
+
+To gain hands-on experience, she completed a 3-month internship in Toxicology at the National Veterinary Research Institute (NVRI), Vom, sponsored by the Nduwaka Educational Foundation, USA. There, she was trained in toxicological screening, animal models, and laboratory safety.
+
+She is currently pursuing an M.Sc. in Biotechnology, deepening my expertise in genomics, molecular biology, and bioethics. She also has hands-on proficiency in using the CODA non-invasive blood pressure system, and has successfully guided students and researchers in measuring physiological parameters for experimental research.
+
+Her long-term goal is to contribute to cutting-edge research in genetic diseases, cancer biology, and experimental animal studies.
+
+## Academic and Professional Qualifications
+
+1️⃣ B.sc Applied Biology
+
+2️⃣ PGD Biotechnology
+
+3️⃣ M.sc Biotechnology (in view)
+
+## Leadership Role(s)/Position(s) and Membership(s)
+
+1️⃣ Principal Technologist at centre for Biotechnology Research Bayero University Kano
+
+2️⃣ Member, Nigeria institute of Science Laboratory and Technology
+
+```{=html}
+<!-- **Role:** Teaching and Research 
+
+**Teaching Focus:** Training Medical, Allied Health Sciences and core Physiology and Anatomy students.
+
+**Research Focus:** Investigating population specific mutations associated with cardiovascular and other diseases of public health concern
+
+## Current Research Projects
+➡️ Investigating genetic predisposition to preeclampsia in Northern Nigeria
+
+➡️ Population Specific Mutations linked to familial hypercholesterolemia. -->
+```
+
+------------------------------------------------------------------------
