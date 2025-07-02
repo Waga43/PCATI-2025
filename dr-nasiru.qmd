@@ -1,5 +1,5 @@
 ---
-title: "Dr. Nasiru ABdullahi (BSc., MSc., PhD)"
+title: "Dr. Nasiru Abdullahi (BSc., MSc., PhD)"
 image: assets\nasiru.png
 toc: false
 page-layout: full

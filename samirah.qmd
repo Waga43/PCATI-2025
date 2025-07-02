@@ -51,7 +51,7 @@ Welcome to the Physiology Career Awareness and Training Initiative (PCATI) 2025 
 ------------------------------------------------------------------------
 
 ::: callout-important
-## Speaker's Institutional Affiliation
+## Facilitator's Institutional Affiliation
 
 Bayero University Kano (BUK), Kano State, Nigeria
 :::
