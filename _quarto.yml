@@ -176,11 +176,15 @@ website:
       - text: "👨🏾‍💻 Workshop Facilitators"
       # icon: fa-graduation-cap # pencil
         menu:
-          - text: "👨🏾‍⚕️ Dr. Nasiru Abdullahi"
+          - text: "👨🏽‍🎓 Dr. Nasiru Abdullahi"
             href: dr-nasiru.qmd
 
           - text: "👩🏽‍⚕️ Samirah Yahuza Bello"
             href: samirah.qmd
+
+          - text: "👨🏽‍🎓 Dr. Abdulwasiu B. Popoola"
+            href: abdulwasiu.qmd
+
 
 # PCATI2025 Blog
       - text:  ✍🏾 PCATI Blog
