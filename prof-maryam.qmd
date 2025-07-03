@@ -51,11 +51,13 @@ Welcome to the Physiology Career Awareness and Training Initiative (PCATI) 2025 
 ------------------------------------------------------------------------
 
 ::: callout-important
-## *Topic*: [**The Role of AI in Teaching and Research**]{.underline} {style="color: blue"}
+## FIRST SPEAKER
+
+### *Topic*: [**The Role of AI in Teaching and Research**]{.underline} {style="color: blue"}
 
 ### *Speaker*: Prof. Maryam Baraka Akor-Dewu
 
-### *Affiliation*: Ahmadu Bello University (ABU), Zaria, Kaduna State, Nigeria. {.illustration}
+### *Affiliation*: Ahmadu Bello University (ABU), Zaria, Kaduna State, Nigeria.
 :::
 
 ## Profile/Citation
