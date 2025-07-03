@@ -42,21 +42,22 @@ about:
     #   target: _blank
 ---
 
-
 Welcome to the Physiology Career Awareness and Training Initiative (PCATI) 2025 Website. It's a pleasure having you here.
 
-**This Program is Proudly Sponsored by:**
----
+## **This Program is Proudly Sponsored by:**
 
 ![](assets\the-physiological-society-logo.png)
 
----
+------------------------------------------------------------------------
 
 ::: callout-important
-## Speaker's Institutional Affiliation
+## *Topic*: [**The Role of AI in Teaching and Research**]{.underline} {style="color: blue"}
 
-Ahmadu Bello University (ABU), Zaria, Kaduna State, Nigeria
+### *Speaker*: Prof. Maryam Baraka Akor-Dewu
+
+### *Affiliation*: Ahmadu Bello University (ABU), Zaria, Kaduna State, Nigeria. {.illustration}
 :::
+
 ## Profile/Citation
 
 Professor Maryam Baraka Akor-Dewu is a scholar and educator in the field of Human Physiology, with a career spanning over two decades at Ahmadu Bello University, Zaria, having risen through the ranks to become a professor, which is a testament to her dedication, intellectual rigor, and leadership.
@@ -91,6 +92,7 @@ Her research has advanced scientific knowledge and addressed pressing health cha
 
 4️⃣ Member, Senate Standing Committee, ABU
 
+```{=html}
 <!-- **Role:** Teaching and Research 
 
 **Teaching Focus:** Training Medical, Allied Health Sciences and core Physiology and Anatomy students.
@@ -101,5 +103,6 @@ Her research has advanced scientific knowledge and addressed pressing health cha
 ➡️ Investigating genetic predisposition to preeclampsia in Northern Nigeria
 
 ➡️ Population Specific Mutations linked to familial hypercholesterolemia. -->
+```
 
----
+------------------------------------------------------------------------
