@@ -4,15 +4,15 @@
     "items": []
   },
   {
-    "listing": "/publicworksblogposts.html",
-    "items": []
-  },
-  {
     "listing": "/academicblogposts.html",
     "items": []
   },
   {
     "listing": "/lecture.html",
+    "items": []
+  },
+  {
+    "listing": "/publicworksblogposts.html",
     "items": []
   }
 ]

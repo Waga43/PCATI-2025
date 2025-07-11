@@ -55,10 +55,14 @@ Welcome to the Physiology Career Awareness and Training Initiative (PCATI) 2025 
 
 ------------------------------------------------------------------------
 
-::: callout-important
-## Facilitator's Institutional Affiliation
+::: callout-note
+## Workshop 1
 
-Bayero University Kano (BUK), Kano State, Nigeria
+### [💬 𝗪𝗼𝗿𝗸𝘀𝗵𝗼𝗽 Title: 𝗠𝗼𝗹𝗲𝗰𝘂𝗹𝗮𝗿 𝗕𝗶𝗼𝗹𝗼𝗴𝘆 𝗧𝗲𝗰𝗵𝗻𝗶𝗾𝘂𝗲𝘀 𝗧𝗿𝗮𝗶𝗻𝗶𝗻𝗴]{style="color: blue"}
+
+### 🎓 Facilitator: Dr. Nasiru Abdullahi
+
+### 🏢 Affiliation: Bayero University Kano (BUK), and Kano Independent Research Center Trust (KIRCT), Kano State, Nigeria
 :::
 
 ## Profile/Citation

@@ -172,6 +172,9 @@ website:
           - text: "👨🏽‍🎓 Prof. Maryam Baraka Akor-Dewu"
             href: prof-maryam.qmd
 
+          - text: "👨🏽‍🎓 Prof. Fatimah Alhassan Dawud"
+            href: prof-fatima.qmd
+
 # Workshop Facilitators
       - text: "👨🏾‍💻 Workshop Facilitators"
       # icon: fa-graduation-cap # pencil

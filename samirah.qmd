@@ -50,10 +50,14 @@ Welcome to the Physiology Career Awareness and Training Initiative (PCATI) 2025 
 
 ------------------------------------------------------------------------
 
-::: callout-important
-## Facilitator's Institutional Affiliation
+::: callout-note
+## Workshop 2
 
-Bayero University Kano (BUK), Kano State, Nigeria
+### [💬 Workshop Title: Assessment of Cardiovascular Parameters Using CODA Non-invasive Blood Pressure System]{style="color: blue"}
+
+### 🎓 Facilitator: Mrs. Samirah Yahuza Bello
+
+### 🏢 Affiliation: Bayero University Kano (BUK), Kano State, Nigeria
 :::
 
 ## Profile/Citation
@@ -76,7 +80,7 @@ Her long-term goal is to contribute to cutting-edge research in genetic diseases
 
 ## Leadership Role(s)/Position(s) and Membership(s)
 
-1️⃣ Principal Technologist at centre for Biotechnology Research Bayero University Kano
+1️⃣ Principal Technologist at centre for Biotechnology Research, Bayero University Kano
 
 2️⃣ Member, Nigeria institute of Science Laboratory and Technology
 
