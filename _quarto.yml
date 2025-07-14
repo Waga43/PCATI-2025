@@ -149,6 +149,9 @@ website:
           - text: "📖 Application"
             href: application.qmd
 
+          - text: "📅 Program of Events"
+            href: program-of-event.qmd
+
 # Organizers
       - text: "🎓 Organizers"
         # icon: fa-graduation-cap # pencil

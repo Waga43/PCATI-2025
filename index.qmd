@@ -21,7 +21,7 @@ about:
       target: _blank
 
     - text: Email
-      href: mailto:edutech_tm@gmail.com
+      href: mailto:pcati2025@gmail.com
       icon: envelope
       target: _blank
 
