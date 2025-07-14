@@ -1,7 +1,8 @@
 ---
-title: "Program Agenda for the Physiology Career Awareness and Training Initiative 2025 (PCATI-2025)"
+title: "Program of Events for the Physiology Career Awareness and Training Initiative 2025 (PCATI-2025)"
 # image: assets\pcat-logo-white.png
 toc: true
+toc-title: Program of Events
 page-layout: full
 about: 
   template: jolla # jolla trestles solana marquee broadside
@@ -131,7 +132,7 @@ Overview of the event’s aims and purpose, including an introduction to The Phy
 
 **⏰ 1:30 PM – 3:15 PM**: Participant Presentations
 	Groups showcase learnings, skills acquired & project ideas developed during the workshops.
-    
+
 **⏰ 3:15 PM – 3:30 PM**: Summary and overview of strategies to sustain continuation of the program 
 
 **⏰ 3:30 PM – 4:00 PM**: Closing, special recognitions and concluding remarks.
