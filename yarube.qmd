@@ -1,0 +1,127 @@
+---
+title: "Prof. Isyaku Umar Yarube (MD, PGDE, PhDB.Sc., MSc., Ph.D)"
+image: assets\yarube.png
+toc: false
+page-layout: full
+about: 
+  template: jolla # jolla trestles solana marquee broadside
+  image-shape: round
+  image-alt: Prof. Isyaku Umar Yarube
+  image-title: Prof. Isyaku Umar Yarube Profile Image
+  image-width: 17em
+  links:
+    - text: LinkedIn
+      href: https://ng.linkedin.com/
+      icon: linkedin
+      target: _blank
+
+    - text: X (formerly Twitter)
+      href: https://x.com/
+      icon: twitter
+      target: _blank
+
+    - text: Email
+      href: mailto:iuyarube.mph@buk.edu.ng
+      icon: envelope
+      target: _blank
+
+    - text: "{{< ai google-scholar color=blue size=2xl >}} Google Scholar"
+      href: https://scholar.google.com
+      # icon: {{< ai google-scholar >}}
+      target: _blank
+    
+    - text: "{{< ai orcid color=green size=xl >}} ORCID"
+      href: https://orcid.org
+      # icon: {{< ai google-scholar >}}
+      target: _blank
+
+
+    # - text: YouTube
+    #   href: https://www.youtube.com/channel/UCAe5662cWJF5NW851ylT-qw
+    #   icon: youtube
+    #   target: _blank
+---
+
+Welcome to the Physiology Career Awareness and Training Initiative (PCATI) 2025 Website. It's a pleasure having you here.
+
+## **This Program is Proudly Sponsored by:**
+
+![](assets\the-physiological-society-logo.png)
+
+------------------------------------------------------------------------
+
+::: callout-note
+## THIRD SPEAKER
+
+### Topic: [**Expanding Career Horizons in Physiology: Insights into Diverse Career Opportunities in Academia, Industry, and Clinical Practice**]{style="color: blue"}
+
+### 🎓 Speaker: Prof. Isyaku Umar Yarube
+
+### 🏢 Affiliation: Bayero University, Kano (BUK)
+:::
+
+## Profile/Citation
+
+Isyaku Umar Yarube is a Professor of Physiology based in the Neuroscience and Pathophysiology Unit of the Department of Human Physiology, College of Health Sciences, Bayero University, Kano, and Elrazi Medical University, Kano, Nigeria.
+
+His research area is dementia and cognitive impairment in different disease states.
+
+He is a member of the Physiological Society of Nigeria (PSN), Nigerian Medical Association (NMA), Neuroscience Society of Nigeria (NSN), African Association of Physiological Sciences (AAPS), Society of Neuroscientists of Africa (SONA), International Brain Research
+Organization (IBRO), The Physiological Society (UK) (currently the Society Representative for BUK), among others.
+
+He obtained his medical degree in 1997 from the prestigious Sechenov Moscow Medical University, Moscow, Russia. He also has MSc and PhD degrees from Ahmadu Bello University (ABU), Zaria, Nigeria; and a Postgraduate Diploma in Education from Bayero University, Kano (BUK), Nigeria. He has received additional training in 25 training
+workshops in different areas, including CPR, health research ethics, advanced research methods, biostatistics, and teaching techniques.
+In his over 22 years of teaching and research experience at the graduate and postgraduate levels, he has supervised many Bachelor, Master and Doctorate degrees; has published more
+than 50 articles in national and international peer-reviewed journals, including Nigerian Journal of Physiological Sciences (PSN), Pathophysiology (Elsevier) and Physiology and
+Behaviour (Elsevier); and has 25 papers presented in about 20 national and international scientific conferences to his name. He has received a number of grants for Seminar events
+from The Physiological Society (UK).
+
+Prof. Yarube has a rich leadership and administrative experience. He serves a number of national and international journals as editor and reviewer; the Neuroscience Society of Nigeria as the Public Relations Officer and Assistant Secretary General, and the National
+Universities Commission (NUC) as resource person in accreditation of Physiology and Medicine programs in Nigerian universities. He served as the Deputy Provost, College of Health Sciences, Head of Department of Physiology, Deputy Dean of Faculty, Sub-Dean and
+Coordinator for many academic programs. 
+
+He is currently serving as the Deputy Vice Chancellor and Provost, College of Medicine, Elrazi Medical University, Kano. 
+
+
+## Academic and Professional Qualification(s)s
+
+1️⃣ MD (General Medicine)
+
+2️⃣ MSc. Human Physiology
+
+3️⃣ PhDB.Sc.
+
+4️⃣ PhD. Human Physiology
+
+
+## Leadership Role(s)/Position(s) and Membership(s)
+
+1️⃣ Editor/Reviewer for National and International Journals
+
+2️⃣ Public Relations Officer and Assistant Secretary General of the Neuroscience Society of Nigeria
+
+3️⃣ Head of Department, Human Physiology
+
+4️⃣ Deputy Dean, Faculty of basic Medical Sciences
+
+5️⃣ Sub-Dean, Faculty of Basic Medical Sciences
+
+6️⃣ Deputy Provost, College of Health Sciences, Bayero University.
+
+7️⃣ Deputy Vice Chancellor and Provost, College of Medicine, Elrazi Medical University, Kano.
+
+
+```{=html}
+<!-- **Role:** Teaching and Research 
+
+**Teaching Focus:** Training Medical, Allied Health Sciences and core Physiology and Anatomy students.
+
+**Research Focus:** Investigating population specific mutations associated with cardiovascular and other diseases of public health concern
+
+## Current Research Projects
+➡️ Investigating genetic predisposition to preeclampsia in Northern Nigeria
+
+➡️ Population Specific Mutations linked to familial hypercholesterolemia. -->
+```
+
+------------------------------------------------------------------------

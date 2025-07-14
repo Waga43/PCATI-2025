@@ -1,0 +1,116 @@
+---
+title: "Engr. Nura Waziri"
+image: assets\nura-waziri.png
+toc: false
+page-layout: full
+about: 
+  template: jolla # jolla trestles solana marquee broadside
+  image-shape: round
+  image-alt: Engr. Nura Waziri
+  image-title: Engr. Nura Waziri Profile Image
+  image-width: 17em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/nasiru-abdullahi-ph-d-60aa0037/
+      icon: linkedin
+      target: _blank
+
+    - text: X (formerly Twitter)
+      href: https://x.com/
+      icon: twitter
+      target: _blank
+
+    - text: Email
+      href: mailto:waziri.nura@pentest.com.ng
+      icon: envelope
+      target: _blank
+
+    - text: "{{< ai google-scholar color=blue size=2xl >}} Google Scholar"
+      href: https://scholar.google.com
+      # icon: {{< ai google-scholar >}}
+      target: _blank
+    
+    - text: "{{< ai orcid color=green size=xl >}} ORCID"
+      href: https://orcid.org/
+      # icon: {{< ai google-scholar >}}
+      target: _blank
+
+    - text: "{{< ai researchgate >}} Research Gate"
+      href: https://www.researchgate.net/
+      # icon: {{< ai google-scholar >}}
+      target: _blank
+
+
+    # - text: YouTube
+    #   href: https://www.youtube.com/channel/UCAe5662cWJF5NW851ylT-qw
+    #   icon: youtube
+    #   target: _blank
+---
+
+Welcome to the Physiology Career Awareness and Training Initiative (PCATI) 2025 Website. It's a pleasure having you here.
+
+## **This Program is Proudly Sponsored by:**
+
+![](assets\the-physiological-society-logo.png)
+
+------------------------------------------------------------------------
+
+::: callout-note
+## Workshop 1
+
+### [💬 𝗪𝗼𝗿𝗸𝘀𝗵𝗼𝗽 Title: Virtual Reality- Innovative Tools for Physiology Teaching and Research]{style="color: blue"}
+
+### 🎓 Facilitator: Engr. Nura Waziri
+
+### 🏢 Affiliation: Aminu Kano Teaching Hospital (AKTH) and PenTest Cybersecurity Institute , Kano State, Nigeria
+:::
+
+## Profile/Citation
+
+Nura Waziri is a Certified Virtual Reality Developer, Oracle Certified Administrator, Cisco Certified Network Associate, Certified Ethical Hacker, and a Certified Machine Learning Engineer. He currently serves as the Head of Innovation and Research & Development in the Digital Health Department of Aminu Kano Teaching Hospital, where he leads the integration of emerging technologies such as XR and AI into healthcare solutions.
+
+Nura is also the Director of Research and Technology at Pentest Cyber Security Institute, CEO of MyLife@360, and Head of IT at iDevPro Africa, demonstrating a deep commitment to driving digital innovation across multiple sectors. With a strong foundation in cybersecurity, extended reality, and AI, Nura brings a unique, forward-thinking perspective to the intersection of healthcare, education, and technology.
+
+## Academic and Professional Qualifications
+
+1️⃣ HND Computer Science Kano Poly
+
+2️⃣ Masters in computer science Artificial intelligence Edinburgh university 
+
+3️⃣ Certified VR developer 
+
+4️⃣ Certified Oracle administrator
+
+5️⃣ Cisco Certified Network Administrator
+
+6️⃣ Certified Ethical Hacker
+
+7️⃣ Certified Machine Learning Engineer
+
+## Leadership Role(s)/Position(s) and Membership(s)
+
+1️⃣ Head of Innovation/Research and Development Unit of Digital Health department Aminu Kano Teaching Hospital (AKTH)
+
+2️⃣ Director Research and technology, Pentest  Cybersecurity Institute 
+
+3️⃣ CEO MyLife@360
+
+4️⃣ Head IT, iDevPro Africa 
+
+
+
+
+```{=html}
+<!-- **Role:** Teaching and Research 
+
+**Teaching Focus:** Training Medical, Allied Health Sciences and core Physiology and Anatomy students.
+
+**Research Focus:** Investigating population specific mutations associated with cardiovascular and other diseases of public health concern
+
+## Current Research Projects
+➡️ Investigating genetic predisposition to preeclampsia in Northern Nigeria
+
+➡️ Population Specific Mutations linked to familial hypercholesterolemia. -->
+```
+
+------------------------------------------------------------------------

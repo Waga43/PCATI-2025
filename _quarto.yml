@@ -178,6 +178,9 @@ website:
           - text: "👨🏽‍🎓 Prof. Fatimah Alhassan Dawud"
             href: prof-fatimah.qmd
 
+          - text: "👨🏽‍🎓 Prof. Isyaku Umar Yarube"
+            href: yarube.qmd
+
 # Workshop Facilitators
       - text: "👨🏾‍💻 Workshop Facilitators"
       # icon: fa-graduation-cap # pencil
@@ -189,8 +192,10 @@ website:
             href: samirah.qmd
 
           - text: "👨🏽‍🎓 Dr. Abdulwasiu B. Popoola"
-            href: abdulwasiu.qmd
+            href: popoola.qmd
 
+          - text: "👨🏾‍💻 Engr. Nura Waziri"
+            href: nura.qmd
 
 # PCATI2025 Blog
       - text:  ✍🏾 PCATI Blog
