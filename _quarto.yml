@@ -152,6 +152,9 @@ website:
           - text: "📅 Program of Events"
             href: program-of-event.qmd
 
+          - text: "👥 PCATI-2025 Workshop Groupings"
+            href: workshop-groupings.qmd
+
 # Organizers
       - text: "🎓 Organizers"
         # icon: fa-graduation-cap # pencil

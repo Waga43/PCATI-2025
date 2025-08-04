@@ -6,17 +6,17 @@
       version="2.0">
 <channel>
 <title>PCATI-2025</title>
-<link>https://waga43.github.io/PCATI-2025/workshop.html</link>
-<atom:link href="https://waga43.github.io/PCATI-2025/workshop.xml" rel="self" type="application/rss+xml"/>
+<link>https://waga43.github.io/PCATI-2025/workshop-groupings.html</link>
+<atom:link href="https://waga43.github.io/PCATI-2025/workshop-groupings.xml" rel="self" type="application/rss+xml"/>
 <description>Physiology Career Awareness and Training Initiative 2025 Program Website</description>
 <image>
 <url>https://waga43.github.io/PCATI-2025/assets/preview.png</url>
 <title>PCATI-2025</title>
-<link>https://waga43.github.io/PCATI-2025/workshop.html</link>
+<link>https://waga43.github.io/PCATI-2025/workshop-groupings.html</link>
 <height>42</height>
 <width>144</width>
 </image>
 <generator>quarto-1.6.42</generator>
-<lastBuildDate>Mon, 04 Aug 2025 06:29:18 GMT</lastBuildDate>
+<lastBuildDate>Mon, 04 Aug 2025 06:29:16 GMT</lastBuildDate>
 </channel>
 </rss>
